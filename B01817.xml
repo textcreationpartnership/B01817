@@ -1,0 +1,2909 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gabinie. Tragedie chrêtienne. / Suivant la copie à Paris.</title>
+            <author>Brueys, 1640-1723.</author>
+         </titleStmt>
+         <extent>Approx. 126 KB of XML-encoded text transcribed from 42 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01817</idno><idno type="EEBO-CITATION">51784422</idno>
+  <idno type="VID">174843</idno>
+  <idno type="EEBO-PROQUEST">2248533138</idno>
+  
+            <idno type="STC">Wing B5221B</idno>
+            <idno type="STC">ESTC R175628</idno>
+            <idno type="OCLC">51784422</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B01817)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174843)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2703:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gabinie. Tragedie chrêtienne. / Suivant la copie à Paris.</title>
+                  <author>Brueys, 1640-1723.</author>
+                  <author>Jourdan, Adrien, père, 1617-1692. Susanna.</author>
+               </titleStmt>
+               <extent>[16], 60 p.   </extent>
+               <publicationStmt>
+                  <publisher>Chez Jean Cailloüe, &amp; Henry Ribotteau ...</publisher>
+                  <pubPlace>A Londres :</pubPlace>
+                  <date>MDCC. [1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Acteurs," p. [2].</note>
+                  <note>Based on "Susanna" by Adrien Jourdan. cf. Pref., p. [12].</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fre">fre</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="fre">
+      <front>
+         <div type="dramatis_personae">
+            <pb facs="tcp:174843:1"/>
+            <head>ACTEƲRS.</head>
+            <list>
+               <item>DIOCLETIEN. Empereur.</item>
+               <item>SERENA. Imperatrice.</item>
+               <item>GALERIUS. Associé à l'Empire.</item>
+               <item>CAMILLE. Soeur de l'Imperatrice.</item>
+               <item>GABINIUS. Pere de Gabinie.</item>
+               <item>GABINIE. Fille de Gabinius.</item>
+               <item>MAXIME. Confident de Dioclétien.</item>
+               <item>CARUS. Confident de Galérius.</item>
+               <item>PHENICE. Confidente de Gabinie.</item>
+               <item>JULIE. Confidente de Camille.</item>
+               <item>GARDES.</item>
+            </list>
+            <p>
+               <hi>La Scene est à Rome, dans une Sale du Pa<g ref="char:EOLhyphen"/>lais de Dioclétien.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:174843:1"/>
+            <p>GABINIE, TRAGEDIE CHRÊTIENNE.</p>
+            <p>
+               <hi>Suivant la Copie à Paris.</hi>
+            </p>
+            <p>
+               <hi>A LONDRES:</hi> Chez <hi>Jean Cailloüe,</hi> &amp; <hi>Henry Ribotteau,</hi> Libraires François dans le Strand. MDCC.</p>
+            <pb facs="tcp:174843:2"/>
+            <pb facs="tcp:174843:2"/>
+         </div>
+         <div type="license">
+            <pb facs="tcp:174843:3"/>
+            <pb facs="tcp:174843:3"/>
+            <head>EXTRAICT du Privilege du ROY.</head>
+            <p>PAR Grace &amp; Privilege du Roy, donné à Pa<g ref="char:EOLhyphen"/>ris le trentiéme Janvier 1693. Signé, Par le Roy en son Conseil, <hi>GAMART.</hi> Il est permis à <hi>THOMAS GUILLAIN,</hi> de faire imprimer, vendre &amp; debiter les Oeuvres de Theatre du Sieur P** B** Autheur du Grondeur, pen<g ref="char:EOLhyphen"/>dant le temps de six années consecutives, à comp<g ref="char:EOLhyphen"/>ter du jour qu'elles seront achevées d'imprimer pour la premiere fois: Pendant lequel temps tres-expresses inhibitions &amp; deffenses sont faites à toutes personnes de quelque qualité &amp; condi<g ref="char:EOLhyphen"/>tion qu'elles soient, de faire imprimer, vendre ny debiter lesdites Pieces de Theâtre d'autre Edition que de celle de l'Exposant, ou de ceux qui au<g ref="char:EOLhyphen"/>ront droit de luy, à peine de trois mille livres d'amende, de confiscation des Exemplaires contre<g ref="char:EOLhyphen"/>faits, &amp; de tous dépens, dommages &amp; interests, &amp; autres peines portées plus au long par lesdites Lettres de Privilege.</p>
+            <closer>
+               <signed>
+                  <hi>Registré sur le Livre de la Communauté des Im<g ref="char:EOLhyphen"/>primeurs &amp; Marchands Libraires de Paris le</hi> 4<seg rend="sup">me</seg>
+                  <hi>d' Avril</hi> 1693. <hi>Signé P. AUBOUYN, Syndic.</hi>
+               </signed>
+               <dateline>Achevé d'imprimer pour la premiere fois le <date>2. Avril 1699.</date>
+               </dateline>
+            </closer>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:174843:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:174843:4"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:174843:5"/>
+            <pb facs="tcp:174843:5"/>
+            <head>
+               <hi>A MONSEIGNEUR Le Comte de DORSET &amp; de MIDDLESEX, &amp;c.</hi> Conseiller du Roy en tous ses Conseils, &amp; Chevalier du tres Noble Ordre de la Jarretiere.</head>
+            <opener>
+               <salute>MONSEIGNEUR,</salute>
+            </opener>
+            <p>CE n'est point icy une Epître Dédicatoire, puisque cette Tragedie que j'ose pré<g ref="char:EOLhyphen"/>senter a vôtre Grandeur, a esté dediée à un Seigneur François d'un Mérite Di<g ref="char:EOLhyphen"/>stingué; &amp; comme je n'en suis point l'Autheur, j'aurois mauvaise grace de prétendre la faire passer pour une Dédicace, non Monseigneur! ce n'est qu'une simple Priere que je prens la Liberté de faire à vôtre Grandeur avec un profond respect, de vouloir, bien donner quelques momens a la Lecture de Gabinie. Peut être que vos grandes occupations vous en empêcheront, mais le sujet de cette Piece a tant de raport à la Cruelle Persé<g ref="char:EOLhyphen"/>cution que les Protestants de France souffrent de<g ref="char:EOLhyphen"/>puis plusieurs Années, &amp; vôtre Grandeur a pro<g ref="char:EOLhyphen"/>tegé avec une générosité si Noble &amp; si Chrêtienne, ceux d'entre eux qui sont venus chercher un azile en ce Royaume, que j'ose me flatter, qu'elle ne condamnera pas tout a fait la hardiesse que j'ay, de luy Présenter un Tableau asses vif d'une partie
+<pb facs="tcp:174843:6"/>de leurs Souffrances: Pespere encore avec eux, Monseigneur, que vôtre Grandeur entrans dans leurs miséres, avec cette bonté qui luy est si Naturelle, &amp; les regardant, comme ces pauvres Chrêtiens persécutés sous Dioclétien, &amp; dont le Crime Ca<g ref="char:EOLhyphen"/>pital étoit de croire en Jesus Christ &amp; son Evan<g ref="char:EOLhyphen"/>gile, d'avoir une fidelité Inviolable pour les Em<g ref="char:EOLhyphen"/>pereurs, &amp; dêtre sans reproche dans la Societé Ci<g ref="char:EOLhyphen"/>vile; Elle conservera toûjours pour ces pauvres persécutés, ces sentimens si Génereux &amp; si Chrê<g ref="char:EOLhyphen"/>tiens dont ils ont reçeu tant de marque, &amp; qui les obligeront à continuer d'Adresser à Dieu leurs Voeux les plus ardents pour la conservation de Vôtre Grandeur &amp; de son Illustre Famille; &amp; moy en particulier, qui suis avec tout le respect &amp; toute la reconnoissance possible,</p>
+            <closer>
+               <salute>
+                  <hi>MONSEIGNEUR,<lb/> De Vôtre Grandeur,</hi>
+               </salute>
+               <lb/>
+               <signed>
+                  <hi>Le tres Humble<lb/> Et tres Obeissant Serviteur,</hi>
+                  <lb/> J. Cailloüé.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:174843:6"/>
+            <head>Avis au Lecteur.</head>
+            <p>CEtte Tragedie a este representée dans une Ville d'ou partent tous les Edits contre le Prote<g ref="char:EOLhyphen"/>stants de France persécutès; &amp; comme l'E<g ref="char:EOLhyphen"/>sprit, &amp; le Discernement y regnent autant qu'en aucun autre lieu du monde, on ne doute point que la plus part dé ceux qui ont assisté aux representations qu'on en a faites, nayent bien sçu appliquer a qui il ap<g ref="char:EOLhyphen"/>partenoit, certains endroits de cette piece asséz forts &amp; asséz bien peints. Elle a esté applaudie de tous les ha<g ref="char:EOLhyphen"/>biles Gens, &amp; Gabinie auroit eu tout le Succés qne l' Au<g ref="char:EOLhyphen"/>theur en pouvoit esperer, si elle avoit esté honorée de la Présence de <hi>Loüis XIV.</hi> qui na jamais voulu assister a sa representation; cependant elle a parû plusieurs fois sur le Théaire, &amp; ensuitte elle a esté defendüe; la rai<g ref="char:EOLhyphen"/>son en est facile à penetrer. l'Autheur a esté autrefois Protestant &amp; s'appelle Mr. Brueys cy devant Avocat à Montpellier, qui après avoir defendu avec succes la Religion Réformée contre un Fameux prelat, de l'E<g ref="char:EOLhyphen"/>glise Romaine, eut la Lâchéte de trahir la verité &amp; ses sentiments &amp; d'Escrire contre son propre Livre, le quel avoit été géneralement gouté, tant du parti Persécuteur que du Persecuté, mais quelques efforts quil ait fait, il na jamais peu déstruire ce quil avoit si fortement prouvé contre le Prelat le plus Habile à farder les superstitions de l'Eglise Romaine; ainsi il n'est pas impossible que cet Autheur nayant peu eteindre absolument la Verité dans son Coeur; il ait été comme entrainé malgré luy, à com<g ref="char:EOLhyphen"/>poser une Tragedie dans laquelle sous d'autres Noms, &amp; dans un siecle esloigué, il depeint l'horrible persecution qu'on a faite, &amp; qu'on fait encore actuèllement souffrir dans le notre aux Protestants de France, quil regarde peut estre encore comme ses Freres. En effect Diocletien, tout Diocletien qu'il éstoit, n'a rien imaginé de plus
+<pb facs="tcp:174843:7"/>Cruel contre les Chrêtiens de son temps, que ce que l'ou exerce aujourd'huy contre ces pauvres gens, qui out tou<g ref="char:EOLhyphen"/>jours eu une fidelité inviolable pour leurs Roys, &amp; qui durant les dernieres Guerres Civiles (tandis que les Ca<g ref="char:EOLhyphen"/>tholiques tachoient d'Introduire l'Etranger dans le Roy<g ref="char:EOLhyphen"/>aume pour le Ruiner,) ont Exposé leurs biens &amp; leurs Vies, pour affermir la Couronne sur la tête d'un Prince, qui est si malheureusement prevenu contre eux, &amp; si animé a leur perte: Voila le Crime de ces Innocents malheureux, qu'on traite neantmoins avec autant de truauté, que si les <hi>Clement,</hi> les <hi>Chatels</hi> &amp; les <hi>Ra<g ref="char:EOLhyphen"/>vaillacs,</hi> fussent sortis du milieu d'eux pour assassiner leurs Roys; cependant c'est ce que leurs Ennemis ne sau<g ref="char:EOLhyphen"/>roient leur reprocher, &amp; pour preuve de cela, je me contenteray de rapporter en finissant, le temoignage Au<g ref="char:EOLhyphen"/>thentique de fidelité, que leur a rèndu le Prelat le plus intégre que l'Eglise Romaine ait jamais eu; c'est l'Illu<g ref="char:EOLhyphen"/>stre Cardinal d'Ossat, Ambassadeur à Rome pour le Roy <hi>Henry IV.</hi> lequel au sujet de l'Assassinat commis en la personne de ce Prince par jean Chatel, écolier des Jesu<g ref="char:EOLhyphen"/>ites, dit dans la <hi>25<seg rend="sup">e</seg>
+               </hi> de ses Lettres reimprimee à Paris en <hi>1698</hi> avec Privilege en <hi>2.</hi> Vol. in <hi>4<seg rend="sup">to</seg>. S'il y avoit aueun lieu de tels Assassinats, ce seroit aux Hereti<g ref="char:EOLhyphen"/>ques de les pourchasser ou Exécuter eux que le Roy a quittés &amp; abandonnés, &amp; qui avoient a se crain<g ref="char:EOLhyphen"/>dre de luy; &amp; toutefois ils n'ont rien attenté de tel, ni contre luy, ni contre aucun des cinq Roys ses Prédecesseurs, quelques Boucheries que leur Majestés ayant faite des dits Huguenots.</hi>
+            </p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:174843:7"/>
+            <head>A MONSIEUR LE COMTE DAYEN, Gouverneur des Provinces de Rous<g ref="char:EOLhyphen"/>sillon &amp; Berry, <hi>&amp;c.</hi>
+            </head>
+            <p>MONSIEUR, L'approbation que vous daignâtes donner à ma Trage<g ref="char:EOLhyphen"/>die le jour que j'eus l'honneur de vous en faire la lecture, me fit esperer qu'elle seroit bien reçeüe du Public. Je n'oy pas esté trompé dans mon esperance: Sa representation a eu tout le succés que la justesse de vôtre goût m'en avoit fait attendre. Les aplaudissemens qu'el<g ref="char:EOLhyphen"/>le a eus à la Cour &amp; à la Ville ont justifié vòtre jugement; &amp; c'est ce qui m'a persuadé que vous ne desaprouveriez pas la liberté que j'ose prendre de vous la dédier. J<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> sç<gap reason="illegible: faint" extent="2 letters">
+                  <desc>••</desc>
+               </gap> bien, MONSIEUR, que c'est plûtost au fonds du sujet que j'ay traité, qu'à la forme que je luy ay donnèe, que je dois l'accueil favorable dont vous avez honoré cette Piece: le spectacle de la Religion Chrêtienne, triomphante dans la persé<g ref="char:EOLhyphen"/>cution, &amp; d'un Empereur abandonnant l'Em<g ref="char:EOLhyphen"/>pire, &amp; mis en fuite par la foule &amp; par la constance des Martyrs, ne pouvoit que plaire
+<pb facs="tcp:174843:8"/>aux yeux de celuy en qui une piété solide, &amp; héréditaire fait la baze de toutes les autres ver<g ref="char:EOLhyphen"/>tus heroïques dont il est orné, &amp; de tout l'éclat que luy donne une illustre naissance, &amp; une brillante fortune. C'est encore sans doute, MONSIEUR, à ce même triomphe du Christianisme, que je suis redevable du succés heureux que ma Tragedie a eu dans une Cour, où un Roy selon le coeur de Dieu, aprés avoir effacé par des actions immortelles les Heros qui l'ont précédé, inspire à tout le monde un zelere<g ref="char:EOLhyphen"/>ligieux, qui le rend aussi cher aux yeux de Dieu, que ses exploits l'ont rendu grand aux yeux des hommes. J'apprens, MONSIEUR, par la dédicace de l'Auteur qui m'a fourny le sujet de cette Tragedie, que la sienne fut au<g ref="char:EOLhyphen"/>trefois dédiée à ce grand Roy, &amp; honorée de sa présence. Quelle gloire pour Gabinie! Si elle avoit pû aujourd' huy s'attirer encore un tel Spectateur; mais elle est trop modeste, pour oser s'en flater: Quels Spectacles seroient dignes d'attirer les yeux d'un Roy, qui attache sur luy ceux de toutes les Nations?</p>
+            <q>
+               <l>Quand un Roy, malgré mille obstacles,</l>
+               <l>Est devenu, par ses travaux divers,</l>
+               <l>Le Spectacle de l'Univers,</l>
+               <l>Il n'est plus pour luy de Spectacles.</l>
+            </q>
+            <p>Pardonnez, MONSIEUR, ces Vers à l'anthousiasme d'une Muse à qui ils ont écha<g ref="char:EOLhyphen"/>pé,
+<pb facs="tcp:174843:8"/>&amp; faites-moy, s'il vous plaît, la grace de recevoir favorablement l'Ouvrage que je vous offre, comme une marque publique de la passion respecteuse avec laquelle je suis,</p>
+            <closer>
+               <salute>MONSIEUR,</salute>
+               <lb/>
+               <signed>
+                  <hi>Vôtre tres humble &amp; tres<lb/> obêîssant serviteur B****</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:174843:9"/>
+            <head>PREFACE.</head>
+            <p>JE dois avertir le Lecteur, que j'ay tiré le sujet de cette piece, d'une Tragedie Latine intitulée, SUSANNA, faite par Adrian Jourdain, Jesuiste, imprimée à Paris par Mâbre Cramoisy en 1654.</p>
+            <p>J'ay crû qu'il me pouvoit estre permis de me servir d'un Ouvrage Latin, fait depuis prés de cinquante ans, à peu prés comme on se sert de ceux des Anciens, quand on veut les mettre sur nostre Theatre.</p>
+            <p>C'est à dire que je l'ay traité autrement, que même mon dessein est different de ce<g ref="char:EOLhyphen"/>luy de cet Auteur; car il ne s'attache qu'au martyre de Susanne, &amp; je me suis principalement proposé de representer dans ma Tragedie, la Religion Chrestien<g ref="char:EOLhyphen"/>ne, s'établissant miraculeusement sans au<g ref="char:EOLhyphen"/>cun secours humain, malgré les efforts &amp; la rage de Dioclétien, que tout le monde sccedil;ait avoir esté le plus grand persécuteur des Chrêtiens.</p>
+            <p>Ainsi quoyque j'aye imité les endroits qui m'ont paru les plus beaux dans cette Piece, en leur donnant un autre tour, j'en ay re<g ref="char:EOLhyphen"/>tranché
+<pb facs="tcp:174843:9"/>plusieurs Personages &amp; beaucoup de choses qui ne me paroissoient pas con<g ref="char:EOLhyphen"/>venables à nos Spectacles, &amp; j'en ay ajoû<g ref="char:EOLhyphen"/>té d'autres qui convenoient à mon dessein, &amp; qui m'ont fourny de nouvelles situations, &amp; une catastrophe differente.</p>
+            <p>Au reste, je n'expose aux yeux des specta<g ref="char:EOLhyphen"/>teurs, que ce que la Religion Chrestienne a de grand &amp; de merveilleux, fondé sur des faits certains, connus de tour le monde, dont les Historiens mesme profanes font mention, &amp; que par consequent les liber<g ref="char:EOLhyphen"/>tins ne sçauroient s'empêcher d'avoüer.</p>
+            <p>J'ay donné à mon héroine le nom de Ga<g ref="char:EOLhyphen"/>binie, que j'ay tiré de celuy de son Pere; parce qu'il m'a semblé que celuy de Susanne, que l'Histoire de nos Saints Martyrs luy donne, n'avoit pas assez de Noblesse pour le Theatre.</p>
+            <p>J'ay suivy l'Histoire Sainte &amp; Profane avec assez de fidélité: il est certain que Ga<g ref="char:EOLhyphen"/>lerius fût associé à l'Empire par Dioclétien: que Serena femme de Dioclétien estoit se<g ref="char:EOLhyphen"/>crettement Chrestienne: que Galerius fût amoureux de la fille de Gabinius, laquelle estoit Chrestienne, &amp; mourût Martyre à Rome: que la Legion Thebaïne se conver<g ref="char:EOLhyphen"/>tît à la Foy avec Maurice qui en estoit le Chef: que cette Legion souffi ît le martyre &amp; y fût exhortée par le Pape S. Marcelin: que Dioclétien, aprés 20 ans de regne,
+<pb facs="tcp:174843:10"/>abandonna l'Empire, &amp; se retira à Salone en Dalmatie environ l'an 296. à cause, dit Zonare, que le Christianisme qui s'éta<g ref="char:EOLhyphen"/>blissoit malgré luy, luy suscitoit trop d'af<g ref="char:EOLhyphen"/>faires.</p>
+            <p>Enfin il est certain, que ce sût peu de temps aprés, que le grand Constantin, qui avoit apris le métier de la Guerre sous Gale<g ref="char:EOLhyphen"/>rius, sût le premier Empereur Chrestien, sous qui l'Eglise jouït d'une grande tran<g ref="char:EOLhyphen"/>quilité, &amp; commença à établir à Rome avec éclat le Siege de l'Empire de Jesus-Christ: Constantin ayant donné au Pape S. Melchiade, pour sa demeure, une Maison Imperiale qui s'appelloit le Palais de La<g ref="char:EOLhyphen"/>tran, avec un Domaine &amp; des revenus convenables pour soûtenir honorablement la suprême Dignité de Chef visible de l'E<g ref="char:EOLhyphen"/>glise.</p>
+            <p>Je n'ay pris d'autre licence, que de rap<g ref="char:EOLhyphen"/>procher un peu de l'action theatrale cer<g ref="char:EOLhyphen"/>tains évenemens memorables, qui sont pourtant arrivez sous le regne de Dioclé<g ref="char:EOLhyphen"/>tien, &amp; presque au temps que la fille de Gabinius souffrit le martyre.</p>
+            <p>Jesouhaiterois pour la satisfaction du Pu<g ref="char:EOLhyphen"/>blic, qu'un si beau sujet eût esté traité par celuy de nos Poëtes tragiques qui a abando<g ref="char:EOLhyphen"/>né le Theatre pour une occupation plus di<g ref="char:EOLhyphen"/>gne de luy, &amp; dont les écrits m'ont souvent fait tomber la plume de la main, lorsque
+<pb facs="tcp:174843:10"/>je les lisois pour tâcher de les imiter; mais enfin j'y ay employé tout le soin, &amp; tout l'art dont je suis capable; j'ay consulté, suivant le précepte d'Horace, des gens é<g ref="char:EOLhyphen"/>clairez, sinceres, &amp; désinterressez; &amp; j'ay suivy exactement leurs avis; si aprés cela on y trouve encore des deffauts que je n'ay pas connus; j'ose esperer que le Public voudra bien m'accorder un peu de cette indulgence, qu'il ne refuse gueres aux pre<g ref="char:EOLhyphen"/>miers Ouvrages de ceux qui ne travaillent que dans le dessein de luy plaire.</p>
+            <p>Avant que de finir cette Préface, je dois dire encore au Lecteur, qui si j'ay consen<g ref="char:EOLhyphen"/>ty qu'on ait mis icy l'Epigramme qu'un de mes amis a faite sur Gabinie; c'est qu'il est certain, que le jour de sa premiere repre<g ref="char:EOLhyphen"/>sentation on vit dans le Parterre deux ou trois Auteurs, qu'on ne connoîtroit pas, quand mesme je les nommerois, qui ca<g ref="char:EOLhyphen"/>balloient ouvertement de tous côtes pour faire tomber cette Tragedie, &amp; qui en di<g ref="char:EOLhyphen"/>soient tout haut eux seuls, ce que le Pu<g ref="char:EOLhyphen"/>blic a dit de leurs Ouvrages, qu'on ne re<g ref="char:EOLhyphen"/>voit plus sur le Theatre.</p>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:174843:11"/>
+            <head>EPIGRAMME, Sur la Tragedie de Gabinie.</head>
+            <l>PEut on faire une Tragedie,</l>
+            <l>Qui sans aucune exception,</l>
+            <l>Soit de tout le monde applaudie?</l>
+            <l>Non: il n'est pas possible: non.</l>
+            <l>Vous vous trompez, on dit que Gabinie</l>
+            <l>Plaist generalement à tous les Spectateurs.</l>
+            <l>Eh! non: elle déplaist à deux ou trois Auteurs.</l>
+            <byline>Par Mr. de P***.<lb/> Amy de l'Auteur.</byline>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <pb n="1" facs="tcp:174843:11"/>
+            <head>GABINIE; Tragedie Chrêtienne.</head>
+            <div n="1" type="act">
+               <div n="1" type="scene">
+                  <head>ACTE I.</head>
+                  <head>SCENE I. <hi>GALERIUS, CARUS.</hi>
+                  </head>
+                  <sp>
+                     <speaker>CARUS.</speaker>
+                     <l>D'Où peut naître, Seigneur, cette som<g ref="char:EOLhyphen"/>bre tristesse,</l>
+                     <l>Quand vous faites vous seul la publi<g ref="char:EOLhyphen"/>que allegresse?</l>
+                     <l>Quoy! le jour qu'on vous place au Trône des Césars,</l>
+                     <l>Aux spectacles nouveaux refusant vos regards,</l>
+                     <l>Pour réver à loisir à vôtre inquiétude,</l>
+                     <l>Vous venez en ces lieux chercher la solitude,</l>
+                     <l>Tandis que le Senat, &amp; le Peuple, &amp; la Cour,</l>
+                     <l>Dans la pompe des jeux célebrent ce grand jour,</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <l>Ouy, Rome en ce grand jour en Spectacles abonde;</l>
+                     <l>Elle voit deux Cesars sur le Trône du Monde,</l>
+                     <l>Et Dioclétien, m'élevant jusqu'à luy,</l>
+                     <l>Au souverain pouvoir m'associe aujourd'huy:</l>
+                     <l>Le croirois-tu pourtant? monté jusqu'à l'Empire,</l>
+                     <l>Il est encore un bien, pour qui mon coeur soûpire:</l>
+                     <l>Au faîte des grandeurs; sous un tître éclatant;</l>
+                     <l>Tout Cesar que je suis, je ne suis pas content.</l>
+                  </sp>
+                  <sp>
+                     <speaker>CARUS.</speaker>
+                     <lg>
+                        <l>Vous, Seigneur? qui jamais a vû, dans moins d'an<g ref="char:EOLhyphen"/>nées,</l>
+                        <l>Tant de prosperités l'une à l'autre enchaînées?</l>
+                        <pb n="2" facs="tcp:174843:12"/>
+                        <l> Depuis qu'on voit sous vous voler nos Etendarts,</l>
+                        <l>Nos plus fiers Ennemis tremblent de toutes parts:</l>
+                        <l>Par tout, du nom Romain rétablissant la gloire,</l>
+                        <l>Vous avez à nos pas attaché la victoire;</l>
+                        <l>Par vous le fier Sarmate obéït à nos loix?</l>
+                        <l>La Perse a vû tomber le dernier de ses Rois;</l>
+                        <l>Nos Aigles, devant vous traversant la Syrie,</l>
+                        <l>Ont de leur vol rapide épouvanté l'Asie;</l>
+                        <l>Et du char de triomphe, au sortir des hazards,</l>
+                        <l>Vous n'avez fait qu'un pas au Trône des Cesars;</l>
+                        <l>Les Prêtres â l'Autel, &amp; sous d'heureux auspices,</l>
+                        <l>De vôtre avenement consacrent les prémices;</l>
+                        <l>Quel bien peut souhaiter l'heureux Galérius?</l>
+                        <l>Tout célebre à l'envy vos faits &amp; vos vertus:</l>
+                     </lg>
+                     <lg>
+                        <l>On dit même, &amp; ce bruit remplit toure la Ville,</l>
+                        <l>Qu'à vos justes desirs on accorde Camille;</l>
+                        <l>Soeur de l'Imperatrice, &amp; l'objet de vos feux.</l>
+                        <l>Que vous faut-il encor, Seigneur, Pour être heu<g ref="char:EOLhyphen"/>reux?</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <l>Qu'on se trompe aisément, lorsque sans connois<g ref="char:EOLhyphen"/>sance,</l>
+                     <l>On veut juger d'autruy sur la seule apparence.</l>
+                     <l>Tel souvent, dont par tout on vante le bonheur,</l>
+                     <l>Porte un poison secret qui luy ronge le coeur.</l>
+                  </sp>
+                  <sp>
+                     <speaker>CARUS.</speaker>
+                     <l>Cependant vous m'avez daigné dire vous-même,</l>
+                     <l>Que vous aimez Camille; on sçait qu'elle vous aime;</l>
+                     <l>Rome approuve ce choix, &amp; vous pouvez, Sei<g ref="char:EOLhyphen"/>gneur.</l>
+                     <l>Vous assûrer encor sur l'aveu de sa soeur.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <l>Eh! c'est mon desespoir, puisqu'il faut te le dire;</l>
+                     <l>Pour ce fatal hymen tu vois que tout conspire;</l>
+                     <l>Que Camille l'attend; qu'il est presque arrêté;</l>
+                     <l>Que moy-même autrefois je l'avois souhaité;</l>
+                     <l>Mais...helas!...</l>
+                  </sp>
+                  <sp>
+                     <pb n="3" facs="tcp:174843:12"/>
+                     <speaker>CARUS.</speaker>
+                     <l>Ah! je voy, qu'à regret infidelle,</l>
+                     <l>Vous brûlez aujourd'huy d'une flâme nouvelle;</l>
+                     <l>Et je vous avoüeray, que mon zele indiscret</l>
+                     <l>Avoit déja, Seigneur, pénétré ce secret;</l>
+                     <l>Je n'osois en parler....</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <l>Le bonheur de ma vie,</l>
+                     <l>Il est vray, cher Carus, dépend de Gabinie:</l>
+                     <l>Lorsque j'aimay Camille, &amp; que j'en fus aimé,</l>
+                     <l>Je n'avois jamais vû les yeux qui m'ont charmé:</l>
+                     <l>Tu sçais, qu'en ce temps-là Gabinie &amp; son pere</l>
+                     <l>Fuyoient de l'Empereur l'éclatante colere;</l>
+                     <l>Tu sçais, que même encore on tient humiliés</l>
+                     <l>Ses parens, ses amis dans l'exil oubliés:</l>
+                     <l>Mais enfin je la vis, &amp; mon ame éperdüe</l>
+                     <l>Se sentit embraser à sa premiere veüe;</l>
+                     <l>Contre elle quels efforts, Carus, n'ay-je pas faits?</l>
+                     <l>Mais ses yeux dans mon coeur ont lancé tant de traits,</l>
+                     <l>Que malgré les efforts de ma premiere flâme,</l>
+                     <l>L'amour de toute parts est entré dans mon ame:</l>
+                     <l>En vain à cet amour, qui flate mon espoir,</l>
+                     <l>J'opose ma raison, j'opose mon devoir;</l>
+                     <l>En vain, pour m'en guerir, Gabinie elle-même</l>
+                     <l>Semble affecter exprés une rigueur extrémé,</l>
+                     <l>Et chercher des raisons pour combattre mes voeux;</l>
+                     <l>Raisons, rigueur, devoir, tout redouble mes feux.</l>
+                  </sp>
+                  <sp>
+                     <speaker>CARUS.</speaker>
+                     <l>Eh bien, Seigneur, aimez, épousez Gabinie:</l>
+                     <l>Du sang de nos Cesars n'est-elle pas sortie?</l>
+                     <l>Suivez vôtre penchant: le Senat, les Romains</l>
+                     <l>N'aprouveront-ils pas que de si belles mains</l>
+                     <l>Vous aident à tenir les rennes de l'Empire?</l>
+                     <l>A quoy bon vous gêner? que Camille en soûpire,</l>
+                     <l>Que craignez-vous?</l>
+                  </sp>
+                  <sp>
+                     <pb n="4" facs="tcp:174843:13"/>
+                     <speaker>GALERIUS.</speaker>
+                     <l>Je crains que Camille en fureur,</l>
+                     <l>Dans son juste party ne jette l'Empereur:</l>
+                     <l>Ma puissance aujourd'hui ne faisant que de naître,</l>
+                     <l>N'en doute point, Carus il est encore mon maitre,</l>
+                     <l>Et déja Gabinîe a bien sçû le prévoir,</l>
+                     <l>Elle m'a déclaré, qu'un absolu pouvoir,</l>
+                     <l>Un obstacle invincible à mes desirs s'opose;</l>
+                     <l>Et cet obstacle, helas! Carus, n'est autre chose.</l>
+                     <l>Car enfin mon amour n'a que trop éclaté;</l>
+                     <l>Pouray-je soûtenir mon infidélité?</l>
+                     <l>De mon amour volage excuser le caprice,</l>
+                     <l>Aux yeux de l'Empereur, &amp; de l'Imperatrice?</l>
+                  </sp>
+                  <sp>
+                     <speaker>CARUS.</speaker>
+                     <l>Mais, Seigneur, voulez-vous, quoy qu'on ait résolu?</l>
+                     <l>Prendre sur l'Empereur un pouvoir absolu?</l>
+                     <l>Suivez sa passion, &amp; secondez son zele,</l>
+                     <l>A détruire par tout cette secte nouvelle,</l>
+                     <l>Dont on le voit peut-être un peu trop allarmé,</l>
+                     <l>Et qui le tient sans cesse à sa perte animé:</l>
+                     <l>Je sçay bien qu'ennemy de l'horreur des supplices,</l>
+                     <l>Le sang des malheureux ne fait pas vos délices;</l>
+                     <l>Et que même l'on dit, que ce grand Empereur</l>
+                     <l>Traite des insensés avec trop de fureur,</l>
+                     <l>Mais vous pourrez un jour moderer sa vengeance,</l>
+                     <l>Ainsi de nos Autels embrassez la deffense,</l>
+                     <l>Et hâtez-vous, Seigneur, pour servir son courroux,</l>
+                     <l>De prêter le serment qu'on exige de vous:</l>
+                     <l>D'abord vous le verrez, ravy d'un tel service,</l>
+                     <l>Se déclarer pour vous contre l'Imperatrice,</l>
+                     <l>Qui, fiere de son rang, ose avec liberté,</l>
+                     <l>Accuser l'Empereur de trop de cruauté:</l>
+                     <l>Qui, sans considerer, qu il veut être inflexible,</l>
+                     <l>Voudroit qu'à la pitié, comme elle, il fut sensible,</l>
+                     <l>Et, par des sentimens peu conformes aux siens,</l>
+                     <l>L'importune sans cessè en faveur des Chrêtiens.</l>
+                     <l>La voicy.</l>
+                  </sp>
+                  <sp>
+                     <pb n="5" facs="tcp:174843:13"/>
+                     <speaker>GALERIUS.</speaker>
+                     <l>Dieux! rendez son pouvoir inutille</l>
+                     <l>Elle vient me parler sans doute pour Camille;</l>
+                     <l>Evitons-la.</l>
+                  </sp>
+               </div>
+               <div n="2" type="scene">
+                  <head>
+                     <hi>SCENE II.</hi> SERENA, GALERIUS, CARUS.</head>
+                  <sp>
+                     <speaker>SERENA.</speaker>
+                     <lg>
+                        <l>CEsar, vous ne me fuiriez pas,</l>
+                        <l>Si vous fçviez pourquoy j'adresse icy mes pas.</l>
+                        <l>
+                           <note n="*" place="bottom">A part soy tandis que Cesar revient du fond du Theatre.</note>Pour sauver les Chrêtiens, Ciel! soûtiens mon attente;</l>
+                        <l>Contre ma propre soeur, tu vois ce que je tente.</l>
+                     </lg>
+                     <lg>
+                        <l>Tout le monde aujourd'huy n'a des yeux que pour vous;</l>
+                        <l>Vous voila sur le Trône auprés de mon époux;</l>
+                        <l>Et je prens part, Seigneur, à cet honneur insigne,</l>
+                        <l>Que Rome vous défere, &amp; dont vous êtes digne.</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <l>Ce que Rome, Madame, aujourd'huy fait pour moy,</l>
+                     <l>N'égale pas l'honneur qu'à present je reçoy.</l>
+                  </sp>
+                  <sp>
+                     <speaker>SERENA.</speaker>
+                     <l>Mais aprés tant d'honneurs que les Peuples vous rendent,</l>
+                     <l>Vous sçavez bien, Cesar, de vous ce qu'ils attendent:</l>
+                     <l>L'Empereur, que je viens d'informer de vos feux,</l>
+                     <l>Y consent, &amp; j'en fais le plus cher de mes voeux.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <l>Madame, permettez que j'ose vous le dire;</l>
+                     <l>Nos premiers soins sont dûs au repos de l'Empire;</l>
+                     <l>Calmons prûtôt les maux que les guerres ont faits;</l>
+                     <l>Quand Rome goùtera ce fruit de nos bienfaits,</l>
+                     <l>J'y penseray, Madame, &amp; toute mon envie....</l>
+                  </sp>
+                  <sp>
+                     <pb n="6" facs="tcp:174843:14"/>
+                     <speaker>SERENA</speaker>
+                     <l>Et si je vous parlois, Seigneur, de Gabinie,</l>
+                     <l>Me demanderiez-vous du temps pour y penser?</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <l>Ah! Madame, sur quoy vous-même me presser:</l>
+                     <l>Je voy qu'on vous a dit le feu qu'elle a fait naître;</l>
+                     <l>Je ne m'en défens point: je n'en suis plus le maitre;</l>
+                     <l>Malgré ma resistance, elle a surpris mon coeur,</l>
+                     <l>Et je cherche à le rendre encore à vôtre soeur.</l>
+                  </sp>
+                  <sp>
+                     <speaker>SERENA.</speaker>
+                     <l>Et moy, Cesar, je veux qu'un sacré noeud vous lie,</l>
+                     <l>Dés demain, s'il se peut, &amp; vous, &amp; Gabinie.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <p>Madame... vous voules éprouver un Amant?</p>
+                  </sp>
+                  <sp>
+                     <speaker>SERENA.</speaker>
+                     <l>Non; je nesçûs jamais trahir mon sentiment.</l>
+                     <l>Je préfere à mon sang le bien de la patrie;</l>
+                     <l>J'estime &amp; je cheris Camille, &amp; Gabinie;</l>
+                     <l>Mais, pour exécuter les desseins que j'ay faits,</l>
+                     <l>Gabinie est plus propre à remplir mes souhaits;</l>
+                     <l>D'ailleurs, de trop d'amour vôtre ame est embra<g ref="char:EOLhyphen"/>sée,</l>
+                     <l>Et j'aurois à rougir, si ma soeur méprisée,</l>
+                     <l>S'exposoit quelque jour, offensant vos regards;</l>
+                     <l>A l'affront du divorce ordinaire aux Cesars.</l>
+                     <l>L'Empereur y consent; et je viens de vous l'ap, ren<g ref="char:EOLhyphen"/>dre;</l>
+                     <l>De Rome, du Senat vous pouvez tout attendre;</l>
+                     <l>Du Peuple, des Soldats vous êtes adoré:</l>
+                     <l>Et pour Gabinius, il est trop honoré,</l>
+                     <l>Que vous fassiez rentrer aujourd'huy sa famille,</l>
+                     <l>Dans le rang des Cesars en épousant sa fille.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <l>Ah! que ne dois-je pas, Madame, à vos bontés?</l>
+                     <l>Ouy, vous mettez le comble à mes félicitez;</l>
+                     <l>Jay cru trouver en vous ma plus grande ennemie,</l>
+                     <l>Et vos soins obligeants m'assûrent Gabinie:</l>
+                     <l>Mais, Madame, oseray-je icy vous informer</l>
+                     <l>D'un scrupule importun qui me vient allarmer?</l>
+                     <pb n="7" facs="tcp:174843:14"/>
+                     <l> Elle m'a déclaré, de mes feux étonnée,</l>
+                     <l>Qu'elle ne me pouvoir jamais être donnée;</l>
+                     <l>Qu'un obstacle invincible à recevoir ma foy,</l>
+                     <l>Ne luy permettoit pas de s'unir avec moy;</l>
+                     <l>Et cet obstacle en vous j'ay cru le reconnoître:</l>
+                     <l>Puisque ce ne l'est pas, que pourroit-ce donc être?</l>
+                  </sp>
+                  <sp>
+                     <speaker>SERENA.</speaker>
+                     <l>Ce qu'elle vous a dit ne doit pas vous troubler:</l>
+                     <l>Contentez-vous, Cesar, que je n'ay qu'à parler,</l>
+                     <l>Et mes soins leveront l'obstacle qui vous gêne;</l>
+                     <l>Je me charge de tout: cessez d'en être en peine;</l>
+                     <l>Gabinie est à vous, &amp; même dés demain;</l>
+                     <l>Assurez-vous du coeur: je répons de la main.</l>
+                  </sp>
+               </div>
+               <div n="3" type="scene">
+                  <head>
+                     <hi>SCENE III.</hi> CAMILLE, SERENA, GALERIUS, CARUS, JULIE.</head>
+                  <sp>
+                     <speaker>CAMILLE.</speaker>
+                     <l>MAdame, sçavez-vous ce que je viens d'ap<g ref="char:EOLhyphen"/>prendre?</l>
+                     <l>On fait courir des bruits, que j'ay peine à com<g ref="char:EOLhyphen"/>prendre:</l>
+                     <l>On dit que Cesar songe à faire un autre choix:</l>
+                     <l>Ces bruits injurieux nous offencent tous trois;</l>
+                     <l>Cependant, bien qu'ils soient hors de toute appa<g ref="char:EOLhyphen"/>rence,</l>
+                     <l>Le Peuple les répand: imposes-luy silence,</l>
+                     <l>Seigneur, &amp; deffendez qu'on parle ainsi de vous.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <l>Le Peuple aime à parler, Madame, &amp; c'est à nous</l>
+                     <l>A mépriser les bruits qu'il se plaît à répandre;</l>
+                     <l>Le rang que nous tenons, loin de nous en deffendre,</l>
+                     <l>Nous livre à ses discours.</l>
+                  </sp>
+                  <sp>
+                     <pb n="8" facs="tcp:174843:15"/>
+                     <speaker>CAMILLE.</speaker>
+                     <l>Ah! Seigneur, quelquefois</l>
+                     <l>La pure verité s'explique par sa voix;</l>
+                     <l>Et souvent le Ciel même, à sa voix favorable.</l>
+                     <l>Fait que ce qu'elle a dit, se trouve veritable.</l>
+                     <l>Je sçay bien, que je crains avec peu de raison;</l>
+                     <l>Et, de vous, je ne puis avoir un tel soupçon;</l>
+                     <l>Je n'ose le penser; mais enfin je confesse,</l>
+                     <l>Qu'en secret dans ces bruits, ma gloire s'interesse.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <p>Madame, eh bien....</p>
+                  </sp>
+                  <sp>
+                     <speaker>SERENA.</speaker>
+                     <l>Cesar je sçay vos sentimens;</l>
+                     <l>Je dois vous épargner ces éclaircissemens:</l>
+                     <l>Je sçay d'où vient le bruit, qu'on répand dans la Ville,</l>
+                     <l>Et tantost en secret, j'en instruiray Camille.</l>
+                  </sp>
+                  <sp>
+                     <speaker>CAMILLE.</speaker>
+                     <l>Mais cependant, Seigneur, pour le voir arrêté,</l>
+                     <l>Informez le Senat de vôtre volonté:</l>
+                     <l>Rome sçait vôtre choix, faites qu'on le publie;</l>
+                     <l>Que je n'entende plus parler de Gabinie.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <l>Madame.... nous devons mieux prendre nôtre temps:</l>
+                     <l>Le Senat occupé pardes soins importans...</l>
+                  </sp>
+                  <sp>
+                     <speaker>CAMILLE.</speaker>
+                     <l>Je vous entens. Seigneur, helas! je suis trahie;</l>
+                     <l>Il est vray, l'infidelle adore Gabinie:</l>
+                     <l>Ses regards inquiets, son air embarassé,</l>
+                     <l>Son excuse frîvole, &amp; son discours glacé,</l>
+                     <l>Enfin tout me le dit. A quoy bon vous contraindre?</l>
+                     <l>Oseriez. vous penser, que je daigne men plaindre?</l>
+                     <l>Ou que je puisse icy, ravalant ma fiertê,</l>
+                     <l>Jusqu' à vous reprocher vôtre infidelité,</l>
+                     <l>Oublier qui je suis, &amp; manquer à ma gloire?</l>
+                     <l>Vous me connoissez mal, si vous le pouvez croire.</l>
+                  </sp>
+                  <sp>
+                     <pb n="9" facs="tcp:174843:15"/>
+                     <speaker>GALERIUS.</speaker>
+                     <l>Eh bien! Madame, eh bien, une cruelle loy,</l>
+                     <l>Puisqu'il faut l'avouer, m'entraîne malgré moy:</l>
+                     <l>Ce qui redouble encor le remord qui me presse,</l>
+                     <l>C'est de voir que vôtre ame exempte de foiblesse,</l>
+                     <l>Et par les sentimens d'une haute vertu,</l>
+                     <l>Soûtient tranquilement...</l>
+                  </sp>
+                  <sp>
+                     <speaker>CAMILLE.</speaker>
+                     <l>Perfide! le crois-tu?</l>
+                     <l>Je ne puis plus long-temps me faire violence,</l>
+                     <l>Mais c'est à vous, Madame, à vanger mon offence.</l>
+                  </sp>
+                  <sp>
+                     <speaker>SERENA.</speaker>
+                     <lg>
+                        <l>A cet indigne éclat abaisser vôtre coeur,</l>
+                        <l>Camille? oubliez-vous que vous êtes ma soeur?</l>
+                     </lg>
+                     <lg>
+                        <l>Je veux seule à Cesar parler en confidence;</l>
+                        <l>Mais ioy l'Empereur donne son audiance;</l>
+                        <l>Seigneur, passons chez moy... Ma soeur, dans un moment,</l>
+                        <l>Vous poures me revoir dans mon appartement.</l>
+                     </lg>
+                  </sp>
+               </div>
+               <div n="4" type="scene">
+                  <head>SCENE IV. <hi>CAMILLE, JULIE,</hi>
+                  </head>
+                  <sp>
+                     <speaker>CAMILLE.</speaker>
+                     <l>IL me quitte: il me fuit: ah! ma chere Julie,</l>
+                     <l>Son coeur, son traître coeur est tout à Gabinie:</l>
+                     <l>Et moy je le cherchois: je venois prés de luy.</l>
+                     <l>Me consoler des bruits qui causoient mon ennuy;</l>
+                     <l>Et quand je m'attendois d'en être rassûrée,</l>
+                     <l>Par luy-meme j'apprens, que ma perte est jurée,</l>
+                     <l>Et dans un même jour, Ciel! qui me l'auroit dit?</l>
+                     <l>Mon Amant m'abandonne, &amp; ma soeur me trahit.</l>
+                     <l>Eh bien! c'est donc â moy de vanger mes of<g ref="char:EOLhyphen"/>fenses:</l>
+                     <l>Perfide! ç'en est trop: redoute mes vangeances;</l>
+                     <pb n="10" facs="tcp:174843:16"/>
+                     <l> L'Empereur, le Senat, tes Gardes, tes Soldats,</l>
+                     <l>Le Trône des Cesars ne t'en deffendra pas;</l>
+                     <l>Tremble: ou si ma puissance à la tienne inégale,</l>
+                     <l>T'empêche de trembler, tremble pour ma rivale.</l>
+                  </sp>
+                  <sp>
+                     <speaker>JULIE.</speaker>
+                     <p>Madame, la voicy songez à l'éviter.</p>
+                  </sp>
+                  <sp>
+                     <speaker>CAMILLE.</speaker>
+                     <p>Sortons, je ne pourrois m'empêcher d'éclater.</p>
+                  </sp>
+               </div>
+               <div n="5" type="scene">
+                  <head>
+                     <hi>SCENE V.</hi> GABINIE, PHENICE, CAMILLE, JULIE.</head>
+                  <sp>
+                     <speaker>GABINIE <hi>rencontrant Camille en fureur.</hi>
+                     </speaker>
+                     <l>MAdame, pardonnez, je voy que ma presence</l>
+                     <l>Vous fait ici peut-être un peu de violence;</l>
+                     <l>Je venois, en suivant des ordres absolus,</l>
+                     <l>Attendre l'Empereur</l>
+                  </sp>
+                  <sp>
+                     <speaker>CAMILLE.</speaker>
+                     <p>Dites Galerius.</p>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIE.</speaker>
+                     <l>Avant la fin du jour, vous me rendrez justice;</l>
+                     <l>Je vay l'attendre ailleurs, &amp; voir l'Imperatrice:</l>
+                     <l>Adieu, Madame.</l>
+                  </sp>
+                  <sp>
+                     <speaker>CAMILLE <hi>en sortant.</hi>
+                     </speaker>
+                     <p>Allez: on y parle de vous.</p>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIE.</speaker>
+                     <p>Je ne merite pas cet injuste courroux.</p>
+                  </sp>
+               </div>
+               <div n="6" type="scene">
+                  <pb n="11" facs="tcp:174843:16"/>
+                  <head>SCENE VI. <hi>GABINIE, PHENICE.</hi>
+                  </head>
+                  <sp>
+                     <speaker>GABINIE <hi>s'arrêtant à la porte de l'Imperatrice, &amp; revenant.</hi>
+                     </speaker>
+                     <l>ON y parle de moy? demeurons; j'apprehende,</l>
+                     <l>Phenice, que Cesar chez elle ne m'attende.</l>
+                     <l>Je le dois éviter, &amp; tu sçais bien pourquoy,</l>
+                     <l>Puisque je n'eus jamais rien de secret pour toy.</l>
+                  </sp>
+                  <sp>
+                     <speaker>PHENICE.</speaker>
+                     <lg>
+                        <l>Ainsi, Madame, en vain l'Imperatrice espere</l>
+                        <l>De donner aux Chrétiens un appuy salutaire</l>
+                        <l>En vain elle prétend établir cet appuy,</l>
+                        <l>Sur l'amour que Cesar a pour vous aujourd huy;</l>
+                        <l>Depuis qu'elle a trouvé Camille opiniâtre,</l>
+                        <l>A vouloir demeurer dans un culte Idolatre,</l>
+                        <l>Aprés avoir sans fruit fait tenter tant de fois,</l>
+                        <l>A luy faire embrasser la plus sainte des loix.</l>
+                     </lg>
+                     <lg>
+                        <l>Pour moy, si j'ose icy dire ce que j'en pense,</l>
+                        <l>Puisque vous m'honorez de vôtre confidence,</l>
+                        <l>J'aurois crû, que le Ciel, pour vous unir tous deux,</l>
+                        <l>Vous ouvroit un chemin favorable à vos voeux;</l>
+                        <l>Car enfin si Cesar...</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIE.</speaker>
+                     <l>Ah! ma chere Phenice,</l>
+                     <lg>
+                        <l>Qu'oses-tu soupçonner? rend moy plus de justice:</l>
+                        <l>Maîtresse de mon coeur, depuis qu'il est Chrêtien,</l>
+                        <l>Un autre amour m'enflâme, &amp; triomphe du sien.</l>
+                        <l>Tu ne me verras pas un moment combattūe;</l>
+                        <l>Je ne crains plus Cesar, mais je dois fuir sa veüe.</l>
+                     </lg>
+                     <lg>
+                        <l>Je devois l'éviter lorsque victorieux,</l>
+                        <l>Au retour de l'Asie il parut à mes yeux:</l>
+                        <l>Tu sçais qu'encore alors, loin de Rome exilées,</l>
+                        <l>Nous étions toutes deux du faux culte aveuglées:</l>
+                        <pb n="12" facs="tcp:174843:17"/>
+                        <l> Narcez, Roy des Persans, assiegeoit nos remparts,</l>
+                        <l>Et déja fur nos murs plantoit ses étendarts:</l>
+                        <l>Tout trembloit; quand de loin nousvîmes dans la plaine,</l>
+                        <l>Sur le Camp de Narcez fondre l'Aigle Romaine:</l>
+                        <l>C'étoit Galerius: &amp; tu vis quel revers</l>
+                        <l>Mit en ce jour la Perse, &amp; son Roy dans nos fers.</l>
+                        <l>Galerius me vit, Phenice, il sçeut me plaire:</l>
+                        <l>Il fléchit l'Emperour en faveur de mon pere;</l>
+                        <l>Nous partîmes pour Rome, où quitant les faux Dieux,</l>
+                        <l>Le sacré. Marcellin nous dessilla les yeux.</l>
+                        <l>Galerius encore ignore ma tendresse;</l>
+                        <l>Je n'ay pû m'en guerir, mais j'en suis la maîtresse;</l>
+                        <l>Et c'est ce même amour qui me fait refuser</l>
+                        <l>Ce que l'Imperatrice ose me proposer:</l>
+                        <l>Elle prétend en vain, qu'en secret, &amp; comme elle,</l>
+                        <l>Pour servir les Chrétiens j'épouse un Infidelle:</l>
+                        <l>Mais aux maux qu'elle craint le Ciel sçaura pour<g ref="char:EOLhyphen"/>voir;</l>
+                        <l>Je veux le laisser faire, &amp; suivre mon devoir:</l>
+                        <l>Ouy, fuyons l'Empereur: fuyons l'Imperatrice:</l>
+                        <l>Plûtost que de ceder, tu me verras, Phenice,</l>
+                        <l>Au Dieu que nous servons, immoler en ce jour,</l>
+                        <l>Avec un Trône offert, ma vie, &amp; mon amour.</l>
+                     </lg>
+                  </sp>
+               </div>
+            </div>
+            <div n="2" type="act">
+               <pb n="13" facs="tcp:174843:17"/>
+               <div n="1" type="scene">
+                  <head>ACTE II.</head>
+                  <head>
+                     <hi>SCENE I.</hi> DIOCLETIEN, GALERIUS, GABINIUS, MAXIME.</head>
+                  <sp>
+                     <speaker>DIOCLETIEN <hi>à Maxime.</hi>
+                     </speaker>
+                     <p>VIendra-t-elle?</p>
+                  </sp>
+                  <sp>
+                     <speaker>MAXIME.</speaker>
+                     <l>Ouy, Seigneur, par moymême avertie,</l>
+                     <l>Déja l'Imperatrice a mandé Gabinie;</l>
+                     <l>Elle vient de passer dans son appartement,</l>
+                     <l>Et doit se rendre ici, Seigneur, dans un moment.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN <hi>à Galerius.</hi>
+                     </speaker>
+                     <l>Pour vôtre auguste hymen je veux que tout s'a<g ref="char:EOLhyphen"/>prête.</l>
+                     <stage>à Maxime.</stage>
+                     <l>Vous, allez pour demain en publier la fête.</l>
+                  </sp>
+               </div>
+               <div n="2" type="scene">
+                  <head>
+                     <hi>SCENE II.</hi> DIOCLETIEN, GALERIUS, GABINIUS.</head>
+                  <sp>
+                     <speaker>DIOCLETIEN <hi>à Gabinius.</hi>
+                     </speaker>
+                     <p>SI j'ay fait un tel choix, c'est en vôtre faveur.</p>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIUS.</speaker>
+                     <p>Je ne m'attendois pas à cet excés d'honneur.</p>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <lg>
+                        <l>Vôtre fille est d'unsang que par tout on révere,</l>
+                        <l>Sa beauté, ses vertus, les services du pere,</l>
+                        <l>Et l'amour de Cesar, enfin tout m'a porté,</l>
+                        <l>A tourner aujourd'huy mon choix de son côte;</l>
+                        <l>Je l'attens sur le Trône où son Amant l'appelle:</l>
+                        <l>Elle est digne de luy, comme il est digne d'elle:</l>
+                        <pb n="14" facs="tcp:174843:18"/>
+                        <l> Demain Rome verra couronner leur amour;</l>
+                        <l>Donnons à d'autres soins le reste de ce jour.</l>
+                     </lg>
+                     <stage>à Galerius.</stage>
+                     <lg>
+                        <l>Si j'ay ceint vôtre front du sacré Diadême;</l>
+                        <l>Si j'ay mis en vos mains la puissance suprême;</l>
+                        <l>Vous l'avez merité, Cesar, par vos hauts faits,</l>
+                        <l>Et de tout l'Univers j'ay rempli les souhaits:</l>
+                        <l>Il croit revoir sous vous Rome encor triomphante;</l>
+                        <l>C'est à vous maintenant à remplir son attente.</l>
+                        <l>Jamais tant d'ennemis; mais le moins craint de tous</l>
+                        <l>Porte au coeur de l'Etat les plus dangereux coups:</l>
+                        <l>Aux yeux de tout le monde il paroît méprisable;</l>
+                        <l>Mais pour moy je le tiens d'autant plus redoutable,</l>
+                        <l>Qu'attaquant nos Autels, je luy voy sourdement</l>
+                        <l>De l'Empire, &amp; des Loix saper le fondement.</l>
+                        <l>Celuy, qui le premier se forma cette idée,</l>
+                        <l>Séduisit un vil peuple au fonds de la Judée:</l>
+                        <l>Auguste le vit naître, &amp; ne le craignit pas:</l>
+                        <l>Tibere vit sa mort; mais aprés son trépas;</l>
+                        <l>Comme s'il étoit vray de luy ce qu'on publie,</l>
+                        <l>Qu'il eût dans son rombeau repris une autre vie,</l>
+                        <l>Il eut des sectateurs, &amp; ces audacieux</l>
+                        <l>Se vantent d'abolir nos Autels &amp; nos Dieux:</l>
+                        <l>Ils ont, pour s'en flater, dit-on, certains Oracles,</l>
+                        <l>Et leurs enchantements passent pour des miracles:</l>
+                     </lg>
+                     <lg>
+                        <l>Un seul pourtant m'étonne: une invisible main</l>
+                        <l>Semble les soûtenir contre tout ordre humain.</l>
+                        <l>Je ne voy point leurs bras s'armer pour leur dé<g ref="char:EOLhyphen"/>fence;</l>
+                        <l>Fidelles à l'Etat, soûmis à ma puissance,</l>
+                        <l>Pour l'honneur de leur Secte ils aiment à souffrir,</l>
+                        <l>Et même, pour l'accroître, ils cherchent à mourir:</l>
+                        <l>Je les mêpriserois; mais ce qui m'épouvante,</l>
+                        <l>C'est de voir le succés répondre à leur attente;</l>
+                        <l>Ouy, Cesar, Plus la flâme, ou le fer en détruit,</l>
+                        <l>Et plus certain Démon d'abord en reproduit;</l>
+                        <pb n="15" facs="tcp:174843:18"/>
+                        <l> J'en purge en vain les champs, les deserts, &amp; les villes;</l>
+                        <l>Leur sang versé par tout rend leurs cendres fer<g ref="char:EOLhyphen"/>tiles,</l>
+                        <l>Et mes propres bourreaux, employez vainement,</l>
+                        <l>De leur Secte à mes yeux jettent le fondement:</l>
+                        <l>Leur puissance s'accroist, s'établit par la mienne,</l>
+                        <l>Et par mes propres mains Rome se fait chrêtienne.</l>
+                        <l>Mais j'en ay fait serment, &amp; je le garderay;</l>
+                        <l>Je quitteray l'Empire, ou je les détruiray;</l>
+                        <l>Quoy! Rome n'aura donc, par les droits de la guerre,</l>
+                        <l>Etendu son pouvoir jusqu'aux bouts de la Terre,</l>
+                        <l>Répandu tant de sang, employé tant de bras,</l>
+                        <l>Détrôné tant de Rois, renversé tant d'Etats,</l>
+                        <l>Bâty, de leur débris, la grandeur qu'on admire,</l>
+                        <l>Que pour voir aux Chrêtiens transporter son Em<g ref="char:EOLhyphen"/>pire?</l>
+                        <l>Non, non, il faut, Cesar, les détruire en tous lieux,</l>
+                        <l>Et vanger à la fois nôtre Empire, &amp; nos Dieux.</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <l>Ce que je dois, Seigneur, aux Dieux, à la Patrie,</l>
+                     <l>Fera toûjours le soin le plus cher de ma vie.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <l>Pour ne perdre jamais ce juste sentiment,</l>
+                     <l>Rome exige de vous le secours du serment:</l>
+                     <l>Le pouvoir souverain, qu'avec vous je partage,</l>
+                     <l>En dépend; en un mot ce serment vous engage,</l>
+                     <l>A condamner par tout, sans pitié de leur sort,</l>
+                     <l>De quelque rang qu'ils soient, les Chrêtiens à la mort:</l>
+                     <l>Pour les tenir en crainte, &amp; contenter ma haine,</l>
+                     <l>Je tiens dans Rome exprés la Legion Thebaine,</l>
+                     <l>Et vous la trouverez, pour hâter leurs tourmens,</l>
+                     <l>Toûjours prête à voler à vos commandemens:</l>
+                     <l>On nous attend au Temple, ou ce serment terrible,</l>
+                     <l>Va rendre à la pitié vôtre ame inaccessible;</l>
+                     <pb n="16" facs="tcp:174843:19"/>
+                     <l> A la face des Dieux, il doit être prêté;</l>
+                     <l>Nôtre auguste Senat l'a luy-même dicté.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <l>Trop honoré, Seigneur, de suivre vôtre exemple,</l>
+                     <l>Mon coeur impatient brûle d'aller au Temple;</l>
+                     <l>Résolu d'immoler, pour vanger nos Autels,</l>
+                     <l>Tous les Chrêtiens du Monde à nos Dieux immor<g ref="char:EOLhyphen"/>tels.</l>
+                  </sp>
+               </div>
+               <div n="3" type="scene">
+                  <head>
+                     <hi>SCENE III.</hi> SERENA, GABINIE, PHENICE, DIOCLETIEN, GALERIUS, GABINIUS.</head>
+                  <sp>
+                     <speaker>DIOCLETIEN <hi>embrassant</hi> Galerius.</speaker>
+                     <l>VEüille le juste Ciel, secondant vôtre zele,</l>
+                     <l>Exterminer enfin cette secte infidelle:</l>
+                     <l>Et, plus heureux que moy, quelque jour puissez<g ref="char:EOLhyphen"/>vous,</l>
+                     <l>Voir le dernier Chrêtien expirer sous vos coups.</l>
+                     <stage>à l' Imperatrice.</stage>
+                     <l>Pour prêter le serment que Rome veut prescrire,</l>
+                     <l>A tous ceux qu'à present elle éleve à l'Empire,</l>
+                     <l>Le Souverain Pontife attend Galerius;</l>
+                     <l>Vous cependant, Madame, avec Gabinius,</l>
+                     <l>A l'hymen de Cesar disposez Gabinie,</l>
+                     <l>Ordonnez-en la pompe, &amp; la cérémonie,</l>
+                     <l>Et que Rome, en faveur de ce jour bien heureux,</l>
+                     <l>Recommence par tout ses fêtes &amp; ses jeux.</l>
+                     <l>Allons, Cesar.</l>
+                  </sp>
+               </div>
+               <div n="4" type="scene">
+                  <pb n="17" facs="tcp:174843:19"/>
+                  <head>
+                     <hi>SCENE IV.</hi> SERENA, GABINIE, GABINIUS, PHENICE.</head>
+                  <sp>
+                     <speaker>SERENA.</speaker>
+                     <l>EH bien! vous venez de l'entendre:</l>
+                     <l>C'en est fait, Gabinie, il est temps de vous rendre;</l>
+                     <l>L'orage qui grossit va bien-tôt éclater,</l>
+                     <l>Par l'horrible serment que Cesar va prêter.</l>
+                     <l>Mon trop barbare époux, lorsque l'âge le glace,</l>
+                     <l>Las de persecuter, luy fait prendre sa place.</l>
+                     <l>Prenez la mienne, helas! autant que je l'ay pû,</l>
+                     <l>J'ay contre ses fureurs sans cesse combattu;</l>
+                     <l>Mais enfin sur son coeur. je sens mon impuissance;</l>
+                     <l>Mon regne va finir, &amp; le vôtre commence</l>
+                     <l>Vous pourrez sur Cesar, ce que j'ay pû sur luy;</l>
+                     <l>Quand je manque aux Chrêtiens, prêtez-leur vô<g ref="char:EOLhyphen"/>tre appuy:</l>
+                     <l>Surmontez les raisons dont vôtre ame s'étonne;</l>
+                     <l>Songez en l'épousant, que le ciel vous l'ordonne;</l>
+                     <l>Qu'il attend ce secours de vos jeunes attraits.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIE.</speaker>
+                     <l>Moy, Madame, au mépris des sermens que j'ay faits,</l>
+                     <l>De fuir l'engagement d'un époux Infidelle,</l>
+                     <l>Envers nos saintes Loix me rendre criminelle?</l>
+                     <l>Dans l'espoir incertain d'empêcher de perir,</l>
+                     <l>Ceux que le Ciel, sans nous, sçaura bien secourir?</l>
+                  </sp>
+                  <sp>
+                     <speaker>SERENA.</speaker>
+                     <l>Ouy: mais il veut souvent que ses ennemis mêmes</l>
+                     <l>Soient les exécuteurs de ses ordres suprémes:</l>
+                     <l>La foudre va partir, le danger est pressant-</l>
+                     <l>Songez combien de peuple, en secret gémissant,</l>
+                     <l>Tout prêt d'estre égorgé, dans ses tristes allarmes,</l>
+                     <l>Présente au Ciel ses voeux, ses soûpirs, &amp; ses larmes;</l>
+                     <pb n="18" facs="tcp:174843:20"/>
+                     <l> Que de sang va couler! fi par un prompt secours,</l>
+                     <l>Des persécutions vous n'arrestez le cours.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIE. <hi>a Gabinius.</hi>
+                     </speaker>
+                     <p>Vous ne me dites rien, mon pere?</p>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIUS.</speaker>
+                     <l>Helas! que dire?</l>
+                     <l>Vous perdez les Chrêtiens en refusant l'Empire,</l>
+                     <l>Et si vous consentez à ce glorieux choix,</l>
+                     <l>Pour sauver les Chrêtiens, vous violez leur Loix.</l>
+                     <l>J'ose dire encor plus, Galerius vous aime:</l>
+                     <l>Mais tout Cesar qu'il est, Galerius luy-même,</l>
+                     <l>Quand de vôtre serment vous briserez les noeuds,</l>
+                     <l>Et que vous répondrez au plus doux de ses voeux;</l>
+                     <l>Luy-même, trop lié d'un serment exécrable,</l>
+                     <l>Ne sçauroit aux Chrêtiens se rendre favorable;</l>
+                     <l>Il se perdroit, sans doute, adoucissant leur sort,</l>
+                     <l>Esclave du serment qui les livré à la mort,</l>
+                     <l>Il se verra forcé, par un pouvoir suprême,</l>
+                     <l>De tout sacrifier, vous, moy, ma fille même.</l>
+                  </sp>
+                  <sp>
+                     <speaker>SERENA.</speaker>
+                     <l>Non, vous connoissez peu le foible des Amants,</l>
+                     <l>L'amour fait violer les plus sacrez sermens,</l>
+                     <l>Et les Dieux que Cesar va juror dans leur Temple,</l>
+                     <l>De sermens violez luy fourniront l'exemple:</l>
+                     <l>Le sacré Marcellin, l'Oracle des Chrêtiens,</l>
+                     <l>De vôtre, engàgement peut rompre les lies.</l>
+                     <l>Voyez l'Idolâtrie en tous lieux triomphante,</l>
+                     <l>Et la verité sainte à ses pieds gémissante,</l>
+                     <l>Cachant au fond des bois, &amp; dans l'obscurité,</l>
+                     <l>De ses Mysteres saints l'auguste Majesté;</l>
+                     <l>Le Monarque des Cieux sans Temples sur la terre,</l>
+                     <l>Et les tristes Chrêtiens, à qui tout fait la guerre,</l>
+                     <l>Chassez de toutes parts, haïs, persécutez,</l>
+                     <l>N'osant lever les yeux, en esclaves tràitez;</l>
+                     <l>San qu'il leur soit permis, dans leur sombremisere,</l>
+                     <l>D'a lorer en plein jour l'Auteur de la lumiere:</l>
+                     <l>Ah! lorsque vous pouvez seule les secoutir,</l>
+                     <l>Sans pitié, sans regret, les verrez vous périr?</l>
+                  </sp>
+                  <sp>
+                     <pb n="19" facs="tcp:174843:20"/>
+                     <speaker>GABINIE.</speaker>
+                     <stage>à Gabinius.</stage>
+                     <stage>à Serena.</stage>
+                     <p>Moy, Madame. Mon pere helas! que dois-je faire?</p>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIUS.</speaker>
+                     <l>Ma fille, je me rends, lorsque je considere,</l>
+                     <l>Quel seroit le courroux d'un Amant Empereur,</l>
+                     <l>Dont l'amour méprisé se changeant en fureur.</l>
+                     <l>Verroit, pour expier cette mortelle offense,</l>
+                     <l>Tous les Chrêtiens du monde en proye à sa van<g ref="char:EOLhyphen"/>geance:</l>
+                     <l>Et sa main, qui sur eux ne peut que se vanger,</l>
+                     <l>Peut-être en l'acceptant voudra les proteger:</l>
+                     <l>Quelle gloire pour vous! si vos soins secourables</l>
+                     <l>A doucissent les maux de tant de miserables,</l>
+                     <l>Et que Cesar, par vous au Seigneur amené</l>
+                     <l>Soit le premier Chrêtien qu'il aura couroné:</l>
+                     <l>Ses Oracles l'on dit, nôtre Rome payenne,</l>
+                     <l>Sous des Cesars Chrêtiens un jour seta Chrêtienne,</l>
+                     <l>Et toujours souveraine, en changeant de splen<g ref="char:EOLhyphen"/>deur,</l>
+                     <l>Verra les Nations reverer sa grandeur.</l>
+                     <l>C'est ce que nos malheurs doivent enfin produire,</l>
+                     <l>Et ce jour, ce grand jour, ma fille. est prêt à luire:</l>
+                     <l>Ne resistez donc plus à donner vôtre main,</l>
+                     <l>Si Dieu l'a resolu, vous resistez en vain.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIE.</speaker>
+                     <l>Eh bien, vous le voulez, il faut que j'obéisse</l>
+                     <l>Aux volontez d'un pere, &amp; d'une Imperatrice;</l>
+                     <l>Pourvû que Marcellin, que j'iray consulter,</l>
+                     <l>Me remette en état de les exécuter.</l>
+                  </sp>
+                  <sp>
+                     <speaker>SERENA.</speaker>
+                     <l>Attendez donc Cesar: commencez un ouvrage,</l>
+                     <l>Qui des maux que je crains dissipera l'orage,</l>
+                     <l>J'en répons: Cependant, Seigneur, allons pourvoir</l>
+                     <l>Aux aprêts d'un hymen qui fait tout nôtre espoir.</l>
+                  </sp>
+               </div>
+               <div n="5" type="scene">
+                  <pb n="20" facs="tcp:174843:21"/>
+                  <head>SCENE V. <hi>GABINIE, PHENICE.</hi>
+                  </head>
+                  <sp>
+                     <speaker>PHENICE.</speaker>
+                     <l>L'Interêt des Chrêtiens enfin vous a vaincüe,</l>
+                     <l>Madame, à leurs raisons vous vous êtes rendüe?</l>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIE.</speaker>
+                     <l>Ouy, pourvû que Cesar... je ne m'explique pas:</l>
+                     <l>Tu trembleras pour moy, lorsque tu le sçauras.</l>
+                     <l>Ne crois pas qu'avec luy, mon coeur d'intelligence:</l>
+                     <l>Cede à l'appas flateur d'une douce esperance;</l>
+                     <l>J'ay de plus grands desseins, Phenice; enfin je veux,</l>
+                     <l>Ou sauver les Chrêtiens, ou perir avec eux.</l>
+                  </sp>
+                  <sp>
+                     <speaker>PHENICE.</speaker>
+                     <p>Juste Ciel!</p>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIE.</speaker>
+                     <l>Si j'osois te dire ma pensée:</l>
+                     <l>Je vay dans ton esprit passer pour infensée;</l>
+                     <l>Maîs enfin, nous touchons à ce jour fortuné,</l>
+                     <l>Que le Ciel nous promet un Chrêtien couronné;</l>
+                     <l>Et mon pere l'a dit, ce jour est prêt â luire:</l>
+                     <l>Ah! par quel doux espoir me laissay-je seduire!</l>
+                     <l>Je croy presque, Phenice, en voyant ses vertus,</l>
+                     <l>Que cet heureux Chrêtien sera Galerius.</l>
+                     <l>Je te laisse trop voir jusqu' où va ma foiblesse;</l>
+                     <l>Ne crois pas que ce soit l'effet de ma tendresse;</l>
+                     <l>Attens, pour en juger, que je quitte ces lieux;</l>
+                     <l>Laisse venir Cesar, tu me connoîtras mieux.</l>
+                  </sp>
+                  <sp>
+                     <speaker>PHENICE.</speaker>
+                     <l>Avant que de le voir, ouvrez plûtôt, Madame,</l>
+                     <l>Au sage Marcellin les secrets de vôtre ame:</l>
+                     <l>Tout le monde est au Temple, &amp; vous pouvez sans bruit,</l>
+                     <l>Pour l'aller consulter, profiter de la nuit.</l>
+                     <pb n="21" facs="tcp:174843:21"/>
+                     <l> Dans ce Palais desert que preteudez-vous faire?</l>
+                     <l>Déja le jour qui suit à peine nous éclaite;</l>
+                     <l>Cesar viendra suivy d'une nombreuse Cour,</l>
+                     <l>Fatigué du tumulte &amp; des soins de ce jour;</l>
+                     <l>Peut-être n'est-il pas encor prêt à s'y rendre,</l>
+                     <l>Et sans témoins, ce soir ne pourra vous entendre:</l>
+                     <l>Madame, croyez-moy, differez à demain.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIE.</speaker>
+                     <l>Eh bien, commençons donc par revoir Marcellin;</l>
+                     <l>Allons.</l>
+                  </sp>
+                  <sp>
+                     <speaker>PHENICE.</speaker>
+                     <p>Camille sort de chez l'Imperatrice.</p>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIE.</speaker>
+                     <p>La nuit nous favorise, évitons la, Phenice.</p>
+                  </sp>
+               </div>
+               <div n="6" type="scene">
+                  <head>SCENE VI. <hi>CAMILLE, JULIE,</hi>
+                  </head>
+                  <sp>
+                     <speaker>CAMILLE.</speaker>
+                     <p>JUlie, as-tu compris ses frivoles raisons?</p>
+                  </sp>
+                  <sp>
+                     <speaker>JULIE.</speaker>
+                     <p>Ce qu'elle vous a dit confirme mes soupçons.</p>
+                  </sp>
+                  <sp>
+                     <speaker>CAMILLE.</speaker>
+                     <l>Cruelle soeur, helas! que viens-tu de me dire?</l>
+                     <l>Quels malheurs prévois-tu? la perte de l'Empire?</l>
+                     <l>Mais quoy de plus affreux à mes tristes regards,</l>
+                     <l>Que ma rivale assise au Trône des Cesars,</l>
+                     <l>Et d'un ingrat que j'aime à mes yeux adorée</l>
+                     <l>Tandis que je serois seule desesperée?</l>
+                     <l>Quel charme l'a séduit? quel Démon en ce jour,</l>
+                     <l>Brise tous les liens du sang &amp; de l'amour?</l>
+                     <l>Julie, çen est fait, je ne veux plus l'entendre.</l>
+                     <l>Mais toymême, dis moy, que voulois tu m'ap<g ref="char:EOLhyphen"/>prendre;</l>
+                  </sp>
+                  <sp>
+                     <pb n="22" facs="tcp:174843:22"/>
+                     <speaker>JULIE.</speaker>
+                     <l>Madame, Gabinie en secret ce matin,</l>
+                     <l>A consulté long-temp le Chrêtien Marcellin.</l>
+                  </sp>
+                  <sp>
+                     <speaker>CAMILLE.</speaker>
+                     <p>Le Chrêtien Marcellin, Ciel! consulté par elle!</p>
+                  </sp>
+                  <sp>
+                     <speaker>JULIE.</speaker>
+                     <l>Ceux-même qui l'ont vû m'ont dit cette nouvelle!</l>
+                     <l>C'est celuy des Chrêtiens, vous le pouvez sça<g ref="char:EOLhyphen"/>voir,</l>
+                     <l>Dont la noire science a le plus de pouvoir.</l>
+                     <l>On ne peut l'arrêter, quoy que l'Empereur fasse,</l>
+                     <l>Et je croy seurement, voyant ce qui ce passe,</l>
+                     <l>Que pour rompre aujourd'huy les plus sacrés liens</l>
+                     <l>Gabinie a recouts aux charmes des Chrêtiens.</l>
+                     <l>Ouy, ce prompt changement, s'il faut que je m'ex<g ref="char:EOLhyphen"/>plique,</l>
+                     <l>Ne peut être l'effet que d'un charme magique:</l>
+                     <l>Les Chrêtiens l'ont donné: son funeste poison</l>
+                     <l>A changé tous les coeurs, &amp; troublé leur raison;</l>
+                     <l>Rome voit tous les jours, qu'a la force terrible,</l>
+                     <l>De leurs enchantemens, il n'est rien d'impossible,</l>
+                     <l>Tantôt en un instant nous leur voyons guerir</l>
+                     <l>Ceux que tout l'art humain ne peut plus secourir,</l>
+                     <l>Et tantôt., en des yeux fermez dés la naissance,</l>
+                     <l>Des organes éteints reparer l'impu;ssance:</l>
+                     <l>Des temps, &amp; des saisons ils renversent les loix,</l>
+                     <l>La nature tremblante obéit à leur voix,</l>
+                     <l>Tout leur cede: la mort, qui n'écoûte persone,</l>
+                     <l>Relâche de ses droits, quand un Chrétien l'or<g ref="char:EOLhyphen"/>donne.</l>
+                     <l>Ouy, puisque Gabinie a pù les consulter...</l>
+                  </sp>
+                  <sp>
+                     <speaker>CAMILLE.</speaker>
+                     <l>Ah! Julie, il suffiit: je n'en sçaurois douter:</l>
+                     <l>Voila donc ton pouvoir, odieuse rivale</l>
+                     <l>Tu m'opposes en vain la puissance infernale,</l>
+                     <l>Les témoins qui l'ont vû, ne pourront le celer:</l>
+                     <l>Allons: je veux les voir, &amp; les faire parler:</l>
+                     <pb n="23" facs="tcp:174843:22"/>
+                     <l> D'autres chez Marcellin auront vû Gabinie;</l>
+                     <l>Si je puis l'en convaincre, il y va de sa vie:</l>
+                     <l>Allons creuser à fonds un si noir attentat;</l>
+                     <l>Je veux l'en accuser moy-même en plein Senat,</l>
+                     <l>Et si, pour la sauver, le traître qui m'offence,</l>
+                     <l>Ose, malgré son crime, embrasser sa deffence,</l>
+                     <l>Aux charmes des Chrêtiens, qui troublent sa rai<g ref="char:EOLhyphen"/>son,</l>
+                     <l>J'opposeray le feu, le fer, &amp; le poison.</l>
+                  </sp>
+               </div>
+            </div>
+            <div n="3" type="act">
+               <div n="1" type="scene">
+                  <head>ACTE III.</head>
+                  <head>
+                     <hi>SCENE I.</hi> GABINIUS, GABINIE, PHENICE.</head>
+                  <sp>
+                     <speaker>GABINIUS.</speaker>
+                     <l>NOus sommes découverts; la superbe Ca<g ref="char:EOLhyphen"/>mille</l>
+                     <l>Souleve contre vous le Senat &amp; la Ville;</l>
+                     <l>Elle a certain secret, dit-elle, à reveler,</l>
+                     <l>Et ce n'est qu'au Senat qu'elle prétend parler;</l>
+                     <l>Mais, ma fille, bien-tôt nous allons tout apprendre,</l>
+                     <l>Puisque l'Imperatrice en ce lieu doit se rendre,</l>
+                     <l>Et sans doute elle veut nous en entretenir,</l>
+                     <l>Puisqu'icy l'un &amp; l'autre elle nous fait venir.</l>
+                     <l>Dans le temps que Cesar vous appelle à l'Empire,</l>
+                     <l>Contre vos jours, helas! peut-être l'on conspire,</l>
+                     <l>Et je crains justement, qu'un funeste retour</l>
+                     <l>Ne change en triste deüil la pompe de ce jour.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIE.</speaker>
+                     <l>Je quitteray sans peine, &amp; l'Empire, &amp; ma vie:</l>
+                     <l>C'est ce que de moins cher à Dieu je sacrifie;</l>
+                     <l>Il le sçait; a ses yeux on ne peut rien celer,</l>
+                     <l>Et je suis préparée à luy tout immoler:</l>
+                     <l>Qu'on me cite au Senat, je suis prête à répondre;</l>
+                     <l>Camille n'aura pas de peine à me confòndre,</l>
+                     <pb n="24" facs="tcp:174843:23"/>
+                     <l> Et je vous avoüeray, Seigneur, qu'avec regret;</l>
+                     <l>Ou me fait consentir à garder le secret:</l>
+                     <l>Que craignons-nous? parlons, confessons qui nous sommes;</l>
+                     <l>Quand on sert le vray Dieu, doit-on craindre les hommes?</l>
+                     <l>Le mensonge se doit couvrir d'obscurité</l>
+                     <l>Mais on doit faire au jour briller la verité.</l>
+                  </sp>
+                  <sp>
+                     <speaker>PHENICE.</speaker>
+                     <p>On vient.</p>
+                  </sp>
+               </div>
+               <div n="2" type="scene">
+                  <head>
+                     <hi>SCENE II.</hi> SERENA, GABINIUS, GABINIE, PHENICE.</head>
+                  <sp>
+                     <speaker>GABINIE.</speaker>
+                     <l>EH bien Madame, il n'est plus tems de feindre;</l>
+                     <l>Nous sommes découverts.</l>
+                  </sp>
+                  <sp>
+                     <speaker>SERENA.</speaker>
+                     <l>J'avois lieu de le craindre;</l>
+                     <l>Et, prête à voir la foudre éclater à mes yeux,</l>
+                     <l>J'allois me déclarer, &amp; braver les faux Dieux;</l>
+                     <l>Mais j'ay tout sçû; Camille a rompu le silence:</l>
+                     <l>On n'a de nos secrets aucune connoissance:</l>
+                     <l>L'on dit, que par un Charme, emprunté des Chrê<g ref="char:EOLhyphen"/>tiens;</l>
+                     <l>Vous avez attiré Cesar dans vos liens;</l>
+                     <l>Voila ce qu'au Senat ma soeur vouloit apprendre;</l>
+                     <l>Mais j'ay sçû qu'il avoit refusé de l'entendre;</l>
+                     <l>Ainsi rien ne s'oppose à nos premiers desseins,</l>
+                     <l>Et la cause du Ciel est encore en vos mains:</l>
+                     <l>Vous allez voir Cesar: il vous cherche, &amp; j'espere,</l>
+                     <l>Qu'avec luy vous prendrez un conseil salutaire.</l>
+                  </sp>
+                  <sp>
+                     <pb n="25" facs="tcp:174843:23"/>
+                     <speaker>GABINIE.</speaker>
+                     <lg>
+                        <l>J'aurois crû, quil seroit pour nous plus glorieux,</l>
+                        <l>D'aller nous déclarer ennemis des faux Dieux;</l>
+                        <l>Cependant j'ay promis; je ne puis m'en défendre,</l>
+                        <l>Madame, à vos conseils je suis prête à me rendre.</l>
+                     </lg>
+                     <lg>
+                        <l>Je ne vous tairay point, que je prétens sçavoir,</l>
+                        <l>Sur le coeur de Cesar quel sera mon pouvoir;</l>
+                        <l>Car enfin il sçaura comme il faut qu'il m'obtienne:</l>
+                        <l>Je porte un coeur Romain dans une ame Chrêtienne;</l>
+                        <l>Il ne me juge pas indigne de sa foy;</l>
+                        <l>Et je sçauray dans peu, s'il est digne de moy.</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>SERENA.</speaker>
+                     <p>Cachez-luy nos secrets avec un soin extrême.</p>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIE.</speaker>
+                     <l>Ce que je luy diray je l'ignore moy-même;</l>
+                     <l>Et quand je le verray, Madame, il ne sçaura,</l>
+                     <l>Que, ce que le Ciel même alors m'inspirera.</l>
+                  </sp>
+                  <sp>
+                     <speaker>SERENA.</speaker>
+                     <l>C'est assez: moy je vais, seure de vôtre zele,</l>
+                     <l>Annoncer aux Chrêtiens cette heureuse nouvelle:</l>
+                     <l>*Sortons, Seigneur: Cesar va se rendre en ce lieu,</l>
+                     <l>Il n'est pas à propos quil nous y trouve. Adieu.</l>
+                  </sp>
+                  <stage>* <hi>à Gabinius.</hi>
+                  </stage>
+               </div>
+               <div n="3" type="scene">
+                  <head>
+                     <hi>SCENE III.</hi> GABINIE, PHENICE.</head>
+                  <sp>
+                     <speaker>PHENICE.</speaker>
+                     <p>VOus allez mal répondre à ce que l'on espere.</p>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIE.</speaker>
+                     <l>Non: ce que j'ay promis je suis prête à le faire;</l>
+                     <l>Si Cesar, dans l'espoir de s'unir avec moy.</l>
+                     <l>Au prix que je t'ay dit, ose accepter ma foy.</l>
+                  </sp>
+                  <sp>
+                     <speaker>PHENICE.</speaker>
+                     <l>Vous m'avez confié ce secret de vôtre ame:</l>
+                     <l>J'en ay fremy pour vous; pensez-y bien, Madame:</l>
+                     <pb n="26" facs="tcp:174843:24"/>
+                     <l> Il est encore temps. Ciel, qu'allez-vous tenter!</l>
+                     <l>Loin de gagner Cesar, vous allez l'irriter:</l>
+                     <l>Ce dessein aux Chretiens, va devenir funeste.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIE.</speaker>
+                     <p>Dieu la mis dans mon sein, sa main fera le reste.</p>
+                  </sp>
+                  <sp>
+                     <speaker>PHENICE.</speaker>
+                     <p>Ah! vous allez périr.</p>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIE.</speaker>
+                     <l>Q'importe, si ma mort</l>
+                     <l>Des Chrêtiens opprimez change le triste sort.</l>
+                  </sp>
+               </div>
+               <div n="4" type="scene">
+                  <head>
+                     <hi>SCENE IV.</hi> GALERIUS, CARUS, GABINIE, PHENICE.</head>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <l>JE vous cherce, Madame: enfin tout m'est pro<g ref="char:EOLhyphen"/>pice;</l>
+                     <l>L'Empereur, le Senat, Rome, l'Imperatrice:</l>
+                     <l>Tout conspire en ce jour à mes félicités;</l>
+                     <l>Mais j'ignore, Madame, encor vos volontés:</l>
+                     <l>Je vous ay déclaré le bonheur où j'aspire;</l>
+                     <l>Bonheur! que je préfere aux grandeurs de l'Em<g ref="char:EOLhyphen"/>pire,</l>
+                     <l>Et je viens en tremblant apprendre à vos genoux,</l>
+                     <l>Si le coeur de Cesar est indigne de vous.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIE.</speaker>
+                     <l>Quoy, Seigneur, est-ce ainst que vôtre coeur oublie,</l>
+                     <l>Que c'est un Empereur qui parle à Gabinie?</l>
+                     <l>Vous suis je bien connüe?</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <l>Ah! j'atteste les Dieux,</l>
+                     <l>Que, si j'ay souhaité ce titre glorieux;</l>
+                     <l>Que, si pour l'aquerir par le sort de la guerre,</l>
+                     <l>J'ay porté mes exploits jusqu'aux bours de la Terre;</l>
+                     <pb n="27" facs="tcp:174843:24"/>
+                     <l> Demes jours prodigués, de tant d'illustres coups,</l>
+                     <l>Le prix le plus charmant, c'est l'espoir d'estre à vous.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIE.</speaker>
+                     <l>Je me connois, Seigneur; &amp; vôtre amour m'é<g ref="char:EOLhyphen"/>tonne;</l>
+                     <l>Cependant sçavez-vous à quel prix je me donne?</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <l>Ah! parlez: commandez: pour un bien si char<g ref="char:EOLhyphen"/>mant;</l>
+                     <l>Je vous accorde tout, demandez seulement.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIE.</speaker>
+                     <p>Puisque vous le voulez, faites qu'on se retire.</p>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS. <hi>à Carus et à Phenice.</hi>
+                     </speaker>
+                     <p>Eloignez-vous.</p>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIE <hi>à part soy.</hi>
+                     </speaker>
+                     <p>Faisons ce que le Ciel m'inspire.</p>
+                  </sp>
+               </div>
+               <div n="5" type="scene">
+                  <head>
+                     <hi>SCENE V.</hi> GABINIE, GALERIUS.</head>
+                  <sp>
+                     <speaker>GABINIE.</speaker>
+                     <l>PUisqu'avec vous, Seigneur, je dois unir mon sort,</l>
+                     <l>Du plus grand des Romains, j'attens un grand ef<g ref="char:EOLhyphen"/>fort;</l>
+                     <l>Mais connoisez mon coeur: sans la grace où j'as<g ref="char:EOLhyphen"/>pire,</l>
+                     <l>Non, ma bouche jamais n'auroit osé le dire:</l>
+                     <l>Je vous aime, Cesar.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <p>Ah! Madame!...</p>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIE.</speaker>
+                     <l>Arrêtez:</l>
+                     <l>Peut-être que mes voeux vont être rebutez:</l>
+                     <pb n="28" facs="tcp:174843:25"/>
+                     <l> Peut-être cet amour, qui pour vous a des charmes,</l>
+                     <l>Vous causera bien-tôt de cruelles allarmes:</l>
+                     <l>De quelque amour, Cesar, que vous soyez épris,</l>
+                     <l>Vous allez achetter ma main à trop haut prix.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <l>Madame, commandez, je vous le dis encore;</l>
+                     <l>Osez tout esperer d'un coeur qui vous adore;</l>
+                     <l>Quel que soit cet effort, je le trouveray doux;</l>
+                     <l>Il n'est rien que ce coeur n'entreprenne pour vous:</l>
+                     <l>Je n'en excepte rien: parlez; daignez le dire;</l>
+                     <l>Je mets tout à vos pieds, l'Empereur &amp; l'Empire.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIE.</speaker>
+                     <l>Eh bien, si vous m'aimez, pour répondre à vos voeux,</l>
+                     <l>Et pouvoir être à vous, voicy ce que je veux.</l>
+                     <l>Je ne puis plus, Cesar, vous cacher que mon pere</l>
+                     <l>A des amis sans nombre, ac cablés de misere;</l>
+                     <l>Ses amis sont les miens: je demande avec luy,</l>
+                     <l>Que de ces malheureux vous vous rendiez l'appuy:</l>
+                     <l>Que vous les cherissiez, &amp; que pour leur deffence,</l>
+                     <l>Vous armiez, s'il le faut toute vôtre puissance.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <lg>
+                        <l>Quoy, Madame, voila cet effort, ce haut prix,</l>
+                        <l>Dont un coeur tout à vous devoit être surpris?</l>
+                     </lg>
+                     <lg>
+                        <l>Je sçay que l'Empereur, jaloux de sa puissance,</l>
+                        <l>Contre tous vous parens exerça sa vangeance;</l>
+                        <l>Je sçay, que loin de Rome, eux, &amp; tous vous amis,</l>
+                        <l>Avec trop de fureur par luy furent bannis;</l>
+                        <l>Et que, jusqu'à ce jour, excepté vôtre pere,</l>
+                        <l>Tous gemissent encor dans leur longue misere;</l>
+                        <l>Mais enfin quels que soient vos amis, &amp; les siens,</l>
+                        <l>Madame! ils me seront bien plus chers que les miens:</l>
+                        <l>Oüy, je vous le promets, oüy; si pour leur défence,</l>
+                        <l>Ils ont jamais besoin de toute ma puissance,</l>
+                        <l>Contre tout l'Univers, prompt a les secourir,</l>
+                        <l>Je periray plûtôt, que de les voir perir.</l>
+                        <l>C'est peu faire pour vous; demandez davantage.</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <pb n="29" facs="tcp:174843:25"/>
+                     <speaker>GABINIE.</speaker>
+                     <l>Pourquoy m'en donnez-vous vous-même le cou<g ref="char:EOLhyphen"/>rage?</l>
+                     <l>Puisque vous promettez de servir mes amis;</l>
+                     <l>Promettez-moy de perdre aussi mes ennemis;</l>
+                     <l>Que vous les détruirez, Seigneur, dans tout l'Em<g ref="char:EOLhyphen"/>pire:</l>
+                     <l>Voila, pour être à vous, tout ce que je desire.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <l>Vos ennemis! l'objet de mon juste courroux!</l>
+                     <l>Oüy, je vous le promets, je les détruiray tous.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIE.</speaker>
+                     <lg>
+                        <l>Eh bien, à ce prix là, je consens qu'on m'obtienne:</l>
+                        <l>Mais apprens qui je suis: Cesar, je suis Chrêtienne:</l>
+                        <l>Va servir les Chrêtiens, ce sont là mes amis:</l>
+                        <l>Va détruire tes Dieux, ce sont mes ennemis</l>
+                        <l>Tu te tais à present, &amp; t'étonnes peut-estre,</l>
+                        <l>Amant audacieux, qui croyois me connoître:</l>
+                        <l>Je te l'avois bien dit, que ton amour surpris,</l>
+                        <l>Trouveroit que ma main seroit à trop haut prix.</l>
+                        <l>Tu l'as promis pourtant; hier tu promis encore,</l>
+                        <l>De livrer à la mort ceux pour qui je t'implore:</l>
+                        <l>C'est à toy de choisir: tu vois, Cesar, tu vois,</l>
+                        <l>Sans doute à quoy t'engage, ou l'un, ou l'autre choix:</l>
+                        <l>Si tu fais'le premier, il faut que tu m'immoles:</l>
+                        <l>Si le dernier te plaît, va briser tes Idoles:</l>
+                        <l>L'un me promet le Trône, &amp; l'autre le tombeau;</l>
+                        <l>L'un te rend mon Epoux, &amp; l'autre mon bourreau;</l>
+                        <l>Choisi, Cesar, choisi, tu me vois toute prête,</l>
+                        <l>A te donner d'abord ou ma main, ou ma tête:</l>
+                        <l>Mon choix dépend de toy: songe à faire le tien,</l>
+                        <l>Je te laisse y penser, &amp; ne te dis plus rien.</l>
+                     </lg>
+                     <lg>
+                        <l>Je vais t'attendre: adieu: pese bien toutes choses;</l>
+                        <l>Aprés, tu peux venir m'épouser, si tu l'oses.</l>
+                     </lg>
+                  </sp>
+               </div>
+               <div n="6" type="scene">
+                  <pb n="30" facs="tcp:174843:26"/>
+                  <head>SCENE VI.</head>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <l>QUel coup de foudre! ô Ciel! mon coeur en a tremblé:</l>
+                     <l>Grands Dieux! qui, comme moy, n'en seroit ac<g ref="char:EOLhyphen"/>cablé?</l>
+                     <l>Gabinie est Chrêtienne? elle fuit, la cruelle;</l>
+                     <l>Mais quoy? mon lâche coeur vole encore apres elle?</l>
+                     <l>Traître! va donc briser les Autels de tes Dieux:</l>
+                     <l>Parjure! va trahir &amp; la Terre, &amp; les Cieux,</l>
+                     <l>Et par ces attentats, commence ton Empire,</l>
+                     <l>Lâche Empereur... Non, non, mon coeur en vain soûpire;</l>
+                     <l>Immolons à ma gloire un amour insensè:</l>
+                     <l>Arrachons de ce coeur le trait qui l'a percé:</l>
+                     <l>Portons le coup mortel à cette secte impie;</l>
+                     <l>Perissent les Chrêtiens; perisse Gabinie:</l>
+                     <l>Gabinie? ah grands Dieux! au devant de mes coups,</l>
+                     <l>Quelle chere victime, helas! presentez-vous:</l>
+                     <l>Gabinie! ah! souffrez que je luy fasse grace.</l>
+                     <l>Mais, elle ne veut pas, grands Dieux! qu'on vous en fasse.</l>
+                     <l>Inhumaine! à vos loix eh bien je me rendray;</l>
+                     <l>Exceptez-en les Dieux, je vous obèiray:</l>
+                     <l>Dieux cruels! je tiendray le serment qui me lie,</l>
+                     <l>Je vais vous obéïr, exceptez Gabinie.</l>
+                     <l>Que resoúdre? que faire? à quel choix m'en tenir?</l>
+                     <l>Malheureux! je ne puis pardonner, ny punir:</l>
+                     <l>Cruels engagements! auquel des deux se rendre;</l>
+                     <l>Dieux! Gabinie! amour! devoir! quel party prendre?</l>
+                     <l>Mais qui vois-je? Fuyons.</l>
+                  </sp>
+               </div>
+               <div n="7" type="scene">
+                  <pb n="31" facs="tcp:174843:26"/>
+                  <head>
+                     <hi>SCENE VII.</hi> CAMILLE, JULIE, GALERIUS</head>
+                  <sp>
+                     <speaker>CAMILLE.</speaker>
+                     <l>FUy; mais ne pense pas,</l>
+                     <l>Traître! que pour te voir, j'adresse icy mes pas.</l>
+                     <l>Je ne te cherche point. Va sors, cours, fuy, per<g ref="char:EOLhyphen"/>fide;</l>
+                     <l>Ma rivale t'attend, &amp; l'Enfer, quî te guide,</l>
+                     <l>Du Charme empoisonné qu'il a pour toy produit,</l>
+                     <l>T'invite ce jour même à recüeillir le fruit:</l>
+                     <l>Fuy donc: qui te retient? à quoy bon te con<g ref="char:EOLhyphen"/>traindre?</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <p>Ah, Madame! quel temps prenez-vous pour vous plaindre?</p>
+                  </sp>
+                  <sp>
+                     <speaker>CAMILLE.</speaker>
+                     <l>Eh quoy! le digne objet qui vient de te charmer,</l>
+                     <l>Ne calme pas les soins qui viennent t'allarmer?</l>
+                     <l>Mais on sçaura bien-tôt dissiper ta tristesse;</l>
+                     <l>Déja pour ton hymen tout le monde s'empresse:</l>
+                     <l>D'icy même j'entens les cris qui jusqu'aux Cieux,</l>
+                     <l>Elevent Gabinie, &amp; le vengeur des Dieux,</l>
+                     <l>Tandis qu'impunément je suis seule outragée.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <l>Ah! vous n'estes, belas! déja que trop vengée:</l>
+                     <l>Du sort le plus cruel j'éprouve le courroux:</l>
+                     <l>Et je suis mille fois plus à plaindre que vous.</l>
+                  </sp>
+               </div>
+               <div n="8" type="scene">
+                  <pb n="32" facs="tcp:174843:27"/>
+                  <head>SCENE VIII. <hi>CAMILLE, JULIE,</hi>
+                  </head>
+                  <sp>
+                     <speaker>CAMILLE.</speaker>
+                     <l>PLus à plaindre que moy? que seroit-ce Julie?</l>
+                     <l>Plus à plaindre, dis-tu? tout flate ton envie:</l>
+                     <l>D'où peut naître en un coeur où regne tant d'es<g ref="char:EOLhyphen"/>poir,</l>
+                     <l>L'affreux accablement où je viens de le voir?</l>
+                     <l>Ce prodige retient ma haine suspenduë,</l>
+                     <l>Et surprise du coup dont je suis confonduë,</l>
+                     <l>De mon juste courroux, je passe à la tetreur,</l>
+                     <l>Et mon étonnement égale ma fureur.</l>
+                     <l>Ma rivale sortoit agitée?</l>
+                  </sp>
+                  <sp>
+                     <speaker>JULIE.</speaker>
+                     <l>Ouy, Madame.</l>
+                     <l>J'augure bien pour vous du trouble de leur ame:</l>
+                     <l>J'ignore leurs secrets; mais je me trompe fort,</l>
+                     <l>Ou quelque grand malheur vient de troubler leur sort.</l>
+                  </sp>
+                  <sp>
+                     <speaker>CAMILLE.</speaker>
+                     <l>Ah! si dans ces secrets, hors de ma connoissance,</l>
+                     <l>Je trouvois dequoy faire éclater ma vengeance.</l>
+                  </sp>
+                  <sp>
+                     <speaker>JULIE.</speaker>
+                     <l>Peut-estre que Maxime a sçû les découvrir,</l>
+                     <l>Il vous doit sa fortune, il cherche à vous servir;</l>
+                     <l>Je l'aperçoy qui vient, &amp; j'attens de son zele,</l>
+                     <l>Madame, qu'il vous porte une heureusenouvelle.</l>
+                  </sp>
+               </div>
+               <div n="9" type="scene">
+                  <head>
+                     <hi>SCENE IX.</hi> MAXIME, CAMILLE, JULIE.</head>
+                  <sp>
+                     <speaker>CAMILLE.</speaker>
+                     <p>EH bien?</p>
+                  </sp>
+                  <sp>
+                     <pb n="33" facs="tcp:174843:27"/>
+                     <speaker>MAXIME.</speaker>
+                     <l>J'ay tout appris, Madame, &amp; plus discret,</l>
+                     <l>A tout autre qu'à vous, je tairois ce secret:</l>
+                     <l>Cette nuit, qui l'eût cru? Gabinie est allée,</l>
+                     <l>Ou souvent des Chrêtiens on surprend l'assemblée;</l>
+                     <l>Au fond d'un antre obscur, au pied de l'Aventin,</l>
+                     <l>Ou déja l'attendoit le fameux Marcellin:</l>
+                     <l>Là, ne soupçonnant pas que l'on pût les entendre,</l>
+                     <l>Ils ont parlé tout haut, je viens de tout appren<g ref="char:EOLhyphen"/>dre,</l>
+                     <l>D'un esclave affidé, qui feint d'estre Chrêtien.</l>
+                     <l>Caché, pour écoùter leur secret entretien;</l>
+                     <l>Mais je crains que quelqu'un.</l>
+                  </sp>
+                  <sp>
+                     <speaker>CAMILLE.</speaker>
+                     <p>Parles avant qu'on vienne.</p>
+                  </sp>
+                  <sp>
+                     <speaker>MAXIME.</speaker>
+                     <p>Pour tout dire en un mot Gabinie est Chrêtienne.</p>
+                  </sp>
+                  <sp>
+                     <speaker>CAMILLE.</speaker>
+                     <p>Dieux!</p>
+                  </sp>
+                  <sp>
+                     <speaker>JULIE.</speaker>
+                     <p>O Ciel!</p>
+                  </sp>
+                  <sp>
+                     <speaker>MAXIME.</speaker>
+                     <l>Et Cefar, qui sortoit de ces lieux,</l>
+                     <l>Sans doute a pénetré ce secret odieux;</l>
+                     <l>Il en fremit.</l>
+                  </sp>
+                  <sp>
+                     <speaker>CAMILLE.</speaker>
+                     <l>Voila l'ennuy qui le devore:</l>
+                     <l>Au mépris de nos Dieux le perfide l'adore;</l>
+                     <l>Voy, Julie, à quel point elle à sçu le charmer.</l>
+                     <l>Il sçait qu'elle est Chrêtienne, &amp; pour encor l'ai<g ref="char:EOLhyphen"/>mer.</l>
+                     <l>L'Empereur le sçait-il?</l>
+                  </sp>
+                  <sp>
+                     <speaker>MAXIME.</speaker>
+                     <l>Non, Madame, il l'ignore.</l>
+                     <l>Et hors nous, à la Cour, nul ne le sçait encore.</l>
+                     <l>Il doit aller au Temple, &amp; croit voir achever</l>
+                     <l>Un hymen que les Dieux ne sçauroient aprouver.</l>
+                     <pb n="34" facs="tcp:174843:28"/>
+                     <l> Voila ce que j'ay sçû; j'ay couru vous l'aprendre;</l>
+                     <l>Mais encor ce secret ne doit pas se répandre.</l>
+                  </sp>
+                  <sp>
+                     <speaker>CAMILLE.</speaker>
+                     <l>Je tairay ce qu'il faut, Maxime, &amp; c'est assés.</l>
+                     <l>Enfin, Julie, enfin mes voeux sont exaucés:</l>
+                     <l>Allons la dénoncer, &amp; perdons qui m'offence;</l>
+                     <l>Lorsque tout me trahit, le Ciel prend ma deffence;</l>
+                     <l>Et j'ay contre tous ceux qui m'osoient outrager,</l>
+                     <l>Et la cause des Dieux, &amp; la mienne à venger.</l>
+                  </sp>
+               </div>
+            </div>
+            <div n="4" type="act">
+               <div n="1" type="scene">
+                  <head>ACTE IV.</head>
+                  <head>SCENE I. <hi>CAMILLE, JULIE.</hi>
+                  </head>
+                  <sp>
+                     <speaker>CAMILLE.</speaker>
+                     <l>VIen, suy-moy, c'est icy que je le veux at<g ref="char:EOLhyphen"/>tendre.</l>
+                     <l>Ma soeur luy fait en vain refuser de m'entendre,</l>
+                     <l>C'est icy son passage: icy je le verray:</l>
+                     <l>Il n'ir a point au Temple, ou je luy-parleray.</l>
+                  </sp>
+                  <sp>
+                     <speaker>JULIE.</speaker>
+                     <p>Madame, il vient à nous.</p>
+                  </sp>
+               </div>
+               <div n="2" type="scene">
+                  <head>
+                     <hi>SCENE II.</hi> DIOCLETIEN, CARUS, MAXIME, CAMILLE, JULIE, Gardes.</head>
+                  <sp>
+                     <speaker>DIOCLETIEN <hi>dans le fonds du Theatre, sans voir Camille.</hi>
+                     </speaker>
+                     <l>ENfin cette journée</l>
+                     <l>Verra briller les seux d'un heureux hymenée;</l>
+                     <l>Et j'espere, Carus, que ce jour attendu,</l>
+                     <l>Me rendia le repos, que mon coeur a perdu.</l>
+                  </sp>
+                  <sp>
+                     <pb n="35" facs="tcp:174843:28"/>
+                     <speaker>CAMILLE.</speaker>
+                     <l>Non, Seigneur, de l'hymen, qui fait vôtre espe<g ref="char:EOLhyphen"/>rance,</l>
+                     <l>Gabinie est indigne, &amp; le Ciel s'en offence.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <stage>à Camille.</stage>
+                     <stage>à Carus.</stage>
+                     <l>Le temps nous presse... Au Temple allez tout préparer,</l>
+                     <l>Carus; on ne sçauroit plus long-temps differer,</l>
+                     <l>Et sans doute Cesar est dans l'impatience,</l>
+                     <l>Que l'on tarde à remplir sa plus douce esperance:</l>
+                     <l>Allez, Carus.</l>
+                  </sp>
+                  <sp>
+                     <speaker>CAMILLE.</speaker>
+                     <p>Arrête: il n'est pas encore temps.</p>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <l>Qu'osez-vous entreprendre? &amp; qu'est-ce que jen<g ref="char:EOLhyphen"/>tens?</l>
+                     <stage>à Carus qui hesite à sortir.</stage>
+                     <l>Allez, vous dis-je, allez, que rien ne vous retinne</l>
+                  </sp>
+                  <sp>
+                     <speaker>CAMILLE <hi>à Carus qui s'en alloit, &amp; qui s'aréte.</hi>
+                     </speaker>
+                     <l>Eh bien va dans le Temple attendre une Chrê<g ref="char:EOLhyphen"/>tienne:</l>
+                     <l>Va presenter ce monstre à nos Dieux immortels,</l>
+                     <l>D'un hymen sacrilege effrayer leurs Autels;</l>
+                     <l>Va...</l>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <p>Ce qu'elle nous dit, ô Ciel! est-il croyable?</p>
+                  </sp>
+                  <sp>
+                     <speaker>CAMILLE.</speaker>
+                     <l>D'un mensonge, Seigneur, me croyez-vous capa<g ref="char:EOLhyphen"/>ble?</l>
+                     <l>Gabinie est Chrêtienne. Elle l'a déclaré.</l>
+                     <l>Cesar en est instruit. Le crime est avéré;</l>
+                     <l>Et de la part des Dieux, je demande sa vie.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <l>Que l'on cherche Cesar: Amenez Gabinie.</l>
+                     <l>Ah! je ne doute plus de son egarement:</l>
+                     <l>Je ne le voy que trop à vôtre étonnement;</l>
+                     <pb n="36" facs="tcp:174843:29"/>
+                     <l> Vous le sçaviez, Carus: vous le sçaviez, Maxime:</l>
+                     <l>Pourquoy me cachiez-vous l'un &amp; l'autre son cri<g ref="char:EOLhyphen"/>me?</l>
+                  </sp>
+                  <sp>
+                     <speaker>MAXIME.</speaker>
+                     <l>On attendoit, Seigneur, qu'un heureux repentir,</l>
+                     <l>De ce funeste état pourroit la garantir.</l>
+                  </sp>
+                  <sp>
+                     <speaker>CARUS.</speaker>
+                     <l>Seigneur, n'en doutez point, l'éclatant hymenée,</l>
+                     <l>Qui doit avec Cesar unir sa destinée,</l>
+                     <l>La gloire, les plaisirs, sa prochaine grandeur,</l>
+                     <l>Sont de puissans motifs pour ramener un coeur.</l>
+                  </sp>
+                  <sp>
+                     <speaker>CAMILLE.</speaker>
+                     <l>Non, non, c'est se flater, Seigneur, que de le croire:</l>
+                     <l>Il n'est grandeurs, plaisirs, tourmens, mépris, ni gloire,</l>
+                     <l>Et vous-même, Seigneur, vous le sçavez trop bien,</l>
+                     <l>Qui dans Rome ait jamais pû changer un Chiê<g ref="char:EOLhyphen"/>tien:</l>
+                     <l>Ils triomphent de tout.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <lg>
+                        <l>Ouy, malgré ma puissance,</l>
+                     </lg>
+                     <lg>
+                        <l>J'en ay fait mille fois la triste expérience</l>
+                        <l>Qu'allois-je faire? ô Ciel! quel Démon aujour<g ref="char:EOLhyphen"/>d'huy,</l>
+                        <l>O secte des Chrêtiens, te prête son a puy?</l>
+                        <l>J'allois en ce moment, sans l'avis de Camille,</l>
+                        <l>Dans le lit de Cesar, te donner un azile?</l>
+                        <l>Dans le lit de celuy, que ma juste fureur</l>
+                        <l>A pris soin de choisir pour ton persécuteur?</l>
+                        <l>C'est ainsi que toujours, &amp; de la même sorte,</l>
+                        <l>Tu tournes contre moy les coups que je te porte:</l>
+                        <l>Que tout ce que je fais, pour triompher de toy,</l>
+                        <l>Tu le sçais employer, pour triompher de moy.</l>
+                     </lg>
+                     <lg>
+                        <l>Aussi, qui le croy roit? dans la publique joye:</l>
+                        <l>A de noires fray eurs je suis le seul en Proye:</l>
+                        <l>Tout tremble en ma presence; &amp; moy-même à mon tour,</l>
+                        <l>Je ne sçay quoy m'allarme au milieu de ma Cour:</l>
+                        <pb n="37" facs="tcp:174843:29"/>
+                        <l> J'ay, pour me delivrer de ces frayeurs secrettes,</l>
+                        <l>Consulté de nos Dieux les sacrez interpretes;</l>
+                        <l>Immolé les Chrêtiens en mille lieux divers,</l>
+                        <l>Et de leur sang impie inondé l'Univers:</l>
+                        <l>Et, comme si les Dieux rejettoient ces victimes,</l>
+                        <l>Que tout ce que je fais fussent autant de crimes,</l>
+                        <l>Au faîte de l'Empire, &amp; malgré mes efforts,</l>
+                        <l>Mon zele envers nos Dieux, semble aigrir mes re<g ref="char:EOLhyphen"/>mors.</l>
+                        <l>Tandis que j'attendray Cesar &amp; Gabinie,</l>
+                        <l>Differez les aprêts de la ceremonie:</l>
+                        <l>Déja le peuple en foule au Temple s'est rendu:</l>
+                        <l>Allez dire, Carus, que tout est suspendu.</l>
+                        <l>Retirez-vous, Camille; à l'aveu de son crime,</l>
+                        <l>Je ne veux pour témoins que Cesar, &amp; Maxime.</l>
+                     </lg>
+                  </sp>
+               </div>
+               <div n="3" type="scene">
+                  <head>
+                     <hi>SCENE III.</hi> GALERIUS, DIOCLETIEN, MAXIME.</head>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <l>VEnez, on vous attend: le trouble ou je vous voy,</l>
+                     <l>Ne m'anonce que trop, que vous sçvez pourquoy:</l>
+                     <l>Celle done que mon choix elevoit à l'Empire,</l>
+                     <l>Celle, pour qui Cesar peut-être encor soûpire</l>
+                     <l>Se déclare Chrêtienne, &amp; vient d'abandonnér</l>
+                     <l>Ces Dieux, ces mêmes Dieux qui l'alloient cou<g ref="char:EOLhyphen"/>ronner?</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <p>Ah! Seigneur, qui l'eût crû?</p>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <p>Quoy! vous l'aimez encore?</p>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <l>Je voudrois la haïr, Seigneur, et je l'adore.</l>
+                     <pb n="38" facs="tcp:174843:30"/>
+                     <l> Mon coeur irrésolu, surpris, desesperé,</l>
+                     <l>Et d'horreut, &amp; d'amour tour à tout déchiré,</l>
+                     <l>Dans un objet si cher, rencontrant une impie,</l>
+                     <l>Suit tantôt son devoir, &amp; tantôt Gabinie.</l>
+                     <l>Et souffre en cet état de plus cruels tourmons,</l>
+                     <l>Que tous ceux qu'aux Chrêtiens out voüé mes ser<g ref="char:EOLhyphen"/>mens.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <p>Vous regrettez des Dieux la mortelle ennemie.</p>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <p>Je voudrois à nos Dieux ramener Gabinie.</p>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <p>Non, non, pour les Chrêtiens il n'est plus de retour.</p>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <l>Vous avez tout tenté, Seigneur, tentez l'amour.</l>
+                     <l>D'ailleurs vous le sçavez, &amp; j'oseray le dire,</l>
+                     <l>Les flots de tant de sang affoiblissent l'Empire;</l>
+                     <l>Et, si l'on pousse à bout ce qu'on veut achever,</l>
+                     <l>On va perdre l'Etat, en voulant le sauver:</l>
+                     <l>Au culte de nos Dieux les Chrêtiens sont rebelles;</l>
+                     <l>Cependant avons-nous des sujets plus fidelles?</l>
+                     <l>De leurs folles erreurs nos Dieux sont offensez;</l>
+                     <l>Mais quel tort à l'Etat ont fait ces insensez?</l>
+                     <l>Que nous font les Chrêtiens? que nous fait leur croyance?</l>
+                     <l>Rien peut-il de leurs moeurs alterer l'innocence?</l>
+                     <l>Ne les voyons-nous pas malheureux, &amp; soûmis,</l>
+                     <l>Bénir qui les outrage, aimer leurs ennemis.</l>
+                     <l>Et parmy les tourmens, dont I'horreur nous éton<g ref="char:EOLhyphen"/>ne,</l>
+                     <l>Respecter en mourant la main qui les ordonne?</l>
+                     <l>Ah! peut-être, Seigneur, voulant les tourmenter,</l>
+                     <l>On enflâme leur zele, au lieu de l'arrêter;</l>
+                     <l>Pent-être, relâchant de ces rigueurs extrêmes,</l>
+                     <l>De leurs illusions ils reviendroient d'eux-mêmes:</l>
+                     <l>Peut-être Gabinie est prête à revenir:</l>
+                     <l>Par elle commençcons à ne les plus punir:</l>
+                     <pb n="39" facs="tcp:174843:30"/>
+                     <l> Du moins je croy pouvoir demander qu'on luy donne</l>
+                     <l>Le temps derevenir aux Dieux qu'elle abandonne:</l>
+                     <l>Dans un coeur que l'on a nouvellement séduit,</l>
+                     <l>L'erreur, qui vient de naître, aisément se détruit,</l>
+                     <l>Et de trop de vertus le Ciel l'a partagée,</l>
+                     <l>Pour la laisser long-temps dans le crime engagée:</l>
+                     <l>D'ailleurs je l'aime encor, &amp; j'attens que mon choix.</l>
+                     <l>Suspende, en sa faveur, la rigueur de nos Loix</l>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <l>Eh bien, vous le voulez, essayons l'indulgence;</l>
+                     <l>Pour la rendre à nos Dieux, je me fais violence:</l>
+                     <l>Mais, aprés cet essay, songez à vôtre tour</l>
+                     <l>A surmonter vous-même un malheureux amour:</l>
+                     <l>Songez à soûtenir vôtre gloire &amp; la mienne.</l>
+                  </sp>
+               </div>
+               <div n="4" type="scene">
+                  <head>
+                     <hi>SCENE IV.</hi> GABINIE, DIOCLETIEN, GALERIUS, MAXIME, <hi>Gardes.</hi>
+                  </head>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <p>MAis elle vient: approche, infidelle Chrêti<g ref="char:EOLhyphen"/>enne.</p>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIE.</speaker>
+                     <l>De ces crimes, Seigneur, que l'on veut m'imputer,</l>
+                     <l>Le dernier fait ma gloire, &amp; jose m'en vanter.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <p>Epargne-moy du moins un discours qui m'offence.</p>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIE.</speaker>
+                     <p>Je ne puis plus garder un criminel silence.</p>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <l>Tu veux donc renoncer à ton sort éclattant?</l>
+                     <l>Je te plains: Cesar t'aime, &amp; le Trône t'attend:</l>
+                     <pb n="40" facs="tcp:174843:31"/>
+                     <l> Veux-tu, pour te plonger dans d'horribles myste<g ref="char:EOLhyphen"/>res,</l>
+                     <l>Abandonner les Dieux de Rome, &amp; de tes peres?</l>
+                     <l>Ces grands Dieux de tout temps reverez parmy nous,</l>
+                     <l>Pour adorer un Dieu, l'objet de mon courroux?</l>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIE.</speaker>
+                     <p>S'il vous étoit connu, vous trembleriez.</p>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <l>Perfide!</l>
+                     <l>Suy, puisque tu le veux, la fureur qui te guide;</l>
+                     <l>A la pitié pour toy, je panchois vainement.</l>
+                     <l>Maxime, amenez-nous son pere, &amp; promptement.</l>
+                  </sp>
+               </div>
+               <div n="5" type="scene">
+                  <head>
+                     <hi>SCENE V.</hi> GABINIE, GALERIUS, DIOCLETIEN, <hi>Gardes.</hi>
+                  </head>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <p>QU'on l'arrête,</p>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <l>Attendez, souffrez que je rapelle</l>
+                     <l>Cette tendre pitié que vous aviez pout elle.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <p>Non, non, Gardes —</p>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <l>Seigneur, suspendez ce courroux</l>
+                     <l>C'est à moy de punir les Chrêtiens, comme à vous.</l>
+                     <l>C'est le premier transport du zele qui l'anime:</l>
+                     <l>Il peut se ralentir. Rome ignore son crime.</l>
+                     <l>Pourquoy le divulguer par un funeste éclat?</l>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <p>Eh bien, Cesar. —</p>
+                  </sp>
+               </div>
+               <div n="6" type="scene">
+                  <pb n="41" facs="tcp:174843:31"/>
+                  <head>
+                     <hi>SCENE VI.</hi> MAXIME, GABINIE, GALERIUS, DIOCLETIEN, Gardes.</head>
+                  <sp>
+                     <speaker>MAXIME <hi>à Dioclétien.</hi>
+                     </speaker>
+                     <l>SEigneur, le Peuple, le Senat,</l>
+                     <l>Les Prêtres en fureur contre la secte impie.</l>
+                     <l>Demandent, à grands cris, qu'on juge Gabinie:</l>
+                     <l>On sçait tout.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <l>Il suffit. Vous venez de le voir,</l>
+                     <lg>
+                        <l>Cesar, j'allois, peut-être, oublier mon devoir;</l>
+                        <l>Les Dieux à mon secours ont ramené Maxime:</l>
+                        <l>C'en est fait. Vous sçavez la peine de son crime;</l>
+                        <l>Commencez à tenir vos sermens &amp; les miens,</l>
+                        <l>Et, par un grand exemple, effrayez les Chrêtiens:</l>
+                     </lg>
+                     <lg>
+                        <l>Triomphez d'un amour, qui luy sert de réfuge;</l>
+                        <l>Vous êtes son Amant: je vous nomme son Juge.</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <p>Moy!</p>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <l>Vous, Perdez l'objet dont vous êtes épris.</l>
+                     <l>Vous nous l'avez juré: l'Empire est à ce prix.</l>
+                  </sp>
+               </div>
+               <div n="7" type="scene">
+                  <head>SCENE VII. <hi>GABINIE, GALERIUS.</hi>
+                  </head>
+                  <sp>
+                     <speaker>GABINIE.</speaker>
+                     <l>ON veut que mon Arrêt sorte de vôtre bouche:</l>
+                     <l>je ne puis le cacher; vôtre douleur me tou<g ref="char:EOLhyphen"/>che:</l>
+                     <pb n="42" facs="tcp:174843:32"/>
+                     <l> Vous m'aimez: je vous plains: &amp; vous plaignez mon sort.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <p>Ah! Madame...</p>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIE.</speaker>
+                     <p>Cesar, je n'attens que la mort.</p>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <p>Cruelle! et vous m'aimez?</p>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIE.</speaker>
+                     <l>je vous l'ay dit moy-même.</l>
+                     <l>Pardonne, juste Ciel! à mon erreur extrême,</l>
+                     <l>D'avoir crû folement, que mes foibles attraits,</l>
+                     <l>En l'attirnat à toy. combleroient mes souhaits.</l>
+                     <l>Cesar, voila l'hymen que Rome nous prépare.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <l>Quoy! vous me croyez donc, Madame, assez bar<g ref="char:EOLhyphen"/>bare...</l>
+                     <l>Moy! je ferois répandre, &amp; répandre à mes yeux,</l>
+                     <l>Par une main infame un sang si précieux!</l>
+                     <l>Ah! ne perdrez-vous point cette funeste envie?</l>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIE.</speaker>
+                     <l>Ne pouvant être à vous, à quoy me sert la vie?</l>
+                     <l>Vous me rendrez heureuse, en me privant du jour:</l>
+                     <l>Eteignez dans mon sang, un malheureux amour;</l>
+                     <l>Il empoisonneroit &amp; ma vie, &amp; la vôtre,</l>
+                     <l>Nous serons, par ma mort, en repos l'un, &amp; l'autre.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <lg>
+                        <l>Quel repos! ah! Madame, en cette extrémité,</l>
+                        <l>Concevez-vous du sort toute la cruauté?</l>
+                        <l>Pour des biens incertains, où vôtre espoir se fonde,</l>
+                        <l>Vous voulez renoncer à l'Empire du monde!</l>
+                     </lg>
+                     <lg>
+                        <l>Je n'oserois icy parler de mon amour;</l>
+                        <l>Mais, Madame, voyez la pompe de ce jour,</l>
+                        <l>Ces Spectacles, ces Jeux, cette superbe Feste;</l>
+                        <l>Rome, tout l'Univers devient vôtre conqueste,</l>
+                        <l>Et mille Nations, pour tomber à vos pieds,</l>
+                        <l>Attendent seulement que vous y consentiez:</l>
+                        <l>Vous allez tout quitter;</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <pb n="43" facs="tcp:174843:32"/>
+                     <speaker>GABINIE.</speaker>
+                     <l>Les honneurs de l'Empire</l>
+                     <l>Ne sont que le néant des grandeurs où j'aspire.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <p>Je n'en obtiendray rien!</p>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIE.</speaker>
+                     <p>Je n'ay rien obtenu!</p>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <l>Juste Ciel! vôtre état vous est-il bien connu?</l>
+                     <l>Dans la fleur de vos ans; de mille attraits pourvûe,</l>
+                     <l>Adorée en tous lieux; sur le Trône attendüe,</l>
+                     <l>Romaine! mépriser les grandeurs de la Cour!</l>
+                     <l>Sensible! triompher des charmes de l'amour!</l>
+                     <l>Préferer le supplice à l'Empire du Monde!...</l>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIE.</speaker>
+                     <l>Voy, Cesar, sur quels biens il faut que je me fonde.</l>
+                     <l>Ah! que n'avez-vous fait vous-même un si beau choix;</l>
+                     <l>Helas! c'est souhaiter trop de biens à la fois.</l>
+                     <l>Que je souffre de voir l'état où je vous laisse!</l>
+                     <l>Hâtez-vous: par ma mort, secourez ma foiblesse.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <p>Justes Dieux! pourriez-vous voir périr tant d'ap<g ref="char:EOLhyphen"/>pas?</p>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIE.</speaker>
+                     <p>Vos Dieux, Cesar, vos Dieux no vous entendent pas.</p>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <p>Souffrez, que contre tous du moins je vous dé<g ref="char:EOLhyphen"/>fende.</p>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIE.</speaker>
+                     <p>Songez à prononcer l'Arrest qu'on vous demande.</p>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <l>Ah! plûtot le Senat, &amp; Rome, &amp; l'Empereur,</l>
+                     <l>Les Dieux même verront éclater ma fureur.</l>
+                  </sp>
+                  <sp>
+                     <pb n="44" facs="tcp:174843:33"/>
+                     <speaker>GABINIE.</speaker>
+                     <l>L'Empereur va bien-tôt répondre à mon attente:</l>
+                     <l>Par vous Cesar, par vous, je mourrois plus con<g ref="char:EOLhyphen"/>tente:</l>
+                     <l>Ne me refusez point le seul bien que j'attens?</l>
+                     <l>Ne me le faites pas attendre encor long-temps?</l>
+                     <l>Cesar, Rome le veut; c'est à vous d'y souscrire.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <l>Rome! reprens tes droits; je renonce à l'Empire,</l>
+                     <l>Puisque ton dur serment m'impose cette loy.</l>
+                  </sp>
+               </div>
+               <div n="8" type="scene">
+                  <head>
+                     <hi>SCENE VIII.</hi> GABINIUS, GALERIUS, GABINIE, Gardes,</head>
+                  <sp>
+                     <speaker>GALERIUS. <hi>Il continüe allant au devant de Gabinius.</hi>
+                     </speaker>
+                     <l>AH! Seigneur, hâtez-vous: venez vous join<g ref="char:EOLhyphen"/>dre à moy:</l>
+                     <l>Venez, Seigneur, venez secourir vôtre fille;</l>
+                     <l>Purgez d'un crime affreux vôtre illustre famille.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIUS.</speaker>
+                     <l>Son crime m'est connu: je viens la secourir.</l>
+                     <l>Oüy, ma fille, je viens, pour t'apprendre à mourir:</l>
+                     <l>Dans la loy des Chrêtiens c'est moy qui t'ay con<g ref="char:EOLhyphen"/>duite,</l>
+                     <l>Je te dois mon exemple, aprés t'avoir instruite.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <p>Son pere!</p>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIUS.</speaker>
+                     <l>A l'Empereur je me suis déclaré</l>
+                     <l>Il attend nôtre Arrest, &amp; tout est préparé.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <p>Ah! Dieux!</p>
+                  </sp>
+                  <sp>
+                     <pb n="45" facs="tcp:174843:33"/>
+                     <speaker>GABINIE.</speaker>
+                     <l>J'entens d'icy la foule impatiente,</l>
+                     <l>Qui se plaint par ses cris d'une trop longue attente;</l>
+                     <l>Si vous ne vous hâtez, vous verrez l'Empereur;</l>
+                     <l>Cesar, dans un moment revenir en fureur.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <p>Non! vous ne mourrez point, &amp; déja je m'accuse.</p>
+                  </sp>
+               </div>
+               <div n="9" type="scene">
+                  <head>
+                     <hi>SCENE IX.</hi> DIOCLETIEN, GABINIE; GABINIUS, GALERIUS, Gardes.</head>
+                  <sp>
+                     <speaker>GABINIE <hi>allant au devant de Diocletien.</hi>
+                     </speaker>
+                     <l>VEnez nous accorder la mort qu'on nous re<g ref="char:EOLhyphen"/>fuse,</l>
+                     <l>Venez, Seigneur, Cesar a besoin de secours.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <l>Seigneur! au nom des Dieux prenons soin de ses jours:</l>
+                     <l>Pourriez-vous voir tomber cette tête adorable,</l>
+                     <l>Sous le barbare fer d'un bras impitoyable?</l>
+                     <l>Livrons plûtôt, Seigneur, &amp; sans grace, &amp; sans choix,</l>
+                     <l>Livrons tous les Chrêtiens à la rigueur des loix:</l>
+                     <l>A nos sermens cruels c'est assez satisfaire;</l>
+                     <l>Epargnons seulement Gabinie &amp; son pere;</l>
+                     <l>Un genereux pardon desillera leurs yeux.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIE.</speaker>
+                     <p>Tandis que nous vivrons, craignez pour vos faux Dieux.</p>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <lg>
+                        <l>Ciel! qui ne frémiroit de voir ce qui se passe?</l>
+                        <l>Il semble que Cesar ait icy pris leur place:</l>
+                        <l>J'y voy, venant presser l'ordre que j'ay donné,</l>
+                        <l>Les criminels contens, &amp; le juge étonné?</l>
+                        <pb n="46" facs="tcp:174843:34"/>
+                        <l> Ils demandent, ô Dieux, quelle étrange manie!</l>
+                        <l>Les criminels la mort, &amp; le juge la vie?</l>
+                     </lg>
+                     <lg>
+                        <l>Monstres! que je ne puis ny vaincre, ny chasser,</l>
+                        <l>Ne puis-je vous punir, sans vous recompenser?</l>
+                        <l>Ne puis-je vous livrer aux plus cruels supplices,</l>
+                        <l>Sans me rendre l'auteur de vos cheres délices?</l>
+                        <l>Et ne puis-je une fois, pour servir mon courroux,</l>
+                        <l>Inventer une peine, &amp; des tourmens pour vous?</l>
+                        <l>Mais, au lieu de Cesar, je vous rendray justice:</l>
+                        <l>Gardes! conduisez-les l'un &amp; l'autre au supplice.</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>
+                        <hi>aux Gardes,</hi> GALERIUS. <hi>à Diocletien</hi>
+                     </speaker>
+                     <l>Arrêtez: en faveur, Seigneur, de mon amour,</l>
+                     <l>Accordons leur du moins le reste de ce jour:</l>
+                     <l>Pour de tels criminels la faveur n'est pas grande:</l>
+                     <l>J'ay droit de l'accorder, &amp; je vous la demande:</l>
+                     <l>Dans ce delay, peut-etre, où nous ne risquons rien,</l>
+                     <l>Les Dieux pourront changer ou leur coeur, ou le mien.</l>
+                  </sp>
+               </div>
+               <div n="10" type="scene">
+                  <head>
+                     <hi>SCENE X.</hi> CARUS, DIOCLETIEN, GALERIUS, GABINIE, GABINIUS, Gardes.</head>
+                  <sp>
+                     <speaker>CARUS. <hi>à Diocletien.</hi>
+                     </speaker>
+                     <l>SEigneur, on vient d'apprendre une étrange nou<g ref="char:EOLhyphen"/>velle;</l>
+                     <l>Au pied de l'Aventin un grand peuple rebelle,</l>
+                     <l>Dans le profond reduit d'un antre ténébreux,</l>
+                     <l>Célebre des Chrêtiens les Mysteres affreux.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <l>Vous le voyez, Cesar,! allez, qu'on les surprenne,</l>
+                     <l>Carus, faites marcher la Legion Thebaine;</l>
+                     <l>Et là, sans respecter âge, sexe, ny rang;</l>
+                     <l>Que tous ces malheureux soient noyez dans leur sang.</l>
+                  </sp>
+               </div>
+               <div n="11" type="scene">
+                  <pb n="47" facs="tcp:174843:34"/>
+                  <head>
+                     <hi>SCENE XI.</hi> DIOCLETIEN, GALERIUS, GABINIE, GABINIUS, Gardes.</head>
+                  <sp>
+                     <speaker>DIOCLETIEN <hi>continue.</hi>
+                     </speaker>
+                     <l>POur eux encore icy, Cesar me sollicite!</l>
+                     <l>Otez-les de mes yeux, leur présence m'irrite:</l>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIUS.</speaker>
+                     <p>Allons, ma fille.</p>
+                  </sp>
+                  <sp>
+                     <speaker>
+                        <hi>à Gabinius.</hi> GABINIE. <hi>à Diocletien.</hi>
+                     </speaker>
+                     <l>Allons Seigneur; faites sur nous,</l>
+                     <l>Sans consulter Cesar, éclater ce courroux:</l>
+                     <l>Je voy que j'en seray l'innocente victime.</l>
+                     <l>Veüille le Dieu vengeur vous pardonner ce crime.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <l>Qu'on redouble leur garde, &amp; que séparément,</l>
+                     <l>On les tienne enfermez dans cet apartement.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <l>Pourquoy les enfermer, &amp; redoubler leur garde,</l>
+                     <l>Seigneur? je répons d'eux, &amp; ce soin me regarde.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <l>Voulez-vous les livrer au Peuple furieux?</l>
+                     <l>Je n'en répondrois plus, s'ils sortoient de ces lieux.</l>
+                     <l>Vous le voulez; leur mort que nous avons jurée,</l>
+                     <l>Jusqu'à la fin du jour sera donc differée:</l>
+                     <l>Allez en profiter; mais consultez-vous bien:</l>
+                     <l>Car, aprés ce delay, Rome n'attend plus rien.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <l>Gabinie mourroit? ah! Rome peut s'attendre,</l>
+                     <l>Que contre ses fureurs je sçauray la deffendre.</l>
+                     <l>Ouy. Dût tomber sur moy la colere des Dieux,</l>
+                     <l>Allons la secourir, ou mourir à ses yeux.</l>
+                  </sp>
+               </div>
+            </div>
+            <div n="5" type="act">
+               <pb n="48" facs="tcp:174843:35"/>
+               <div n="1" type="scene">
+                  <head>ACTE V.</head>
+                  <head>SCENE I. <hi>DIOCLETIEN, MAXIME.</hi>
+                  </head>
+                  <sp>
+                     <speaker>MAXIME.</speaker>
+                     <l>QUoy, Seigneur, Gabinie à vos desirs ren<g ref="char:EOLhyphen"/>düe,</l>
+                     <l>A nos sacrez Autels est enfin revenüe?</l>
+                     <l>Ce bruit semé par tout est venu jusqu'a moy.</l>
+                     <l>Et déja les Chrêtiens en pâlissent d'effroy;</l>
+                     <l>Déja Rome triomphe, &amp; le Ciel favorable...</l>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <lg>
+                        <l>Helas! Que son retour me seroit agreable,</l>
+                        <l>Maxime, mais bien-tost vous en serez instruit;</l>
+                        <l>C'est par mon ordre exprés qu'on a semé ce bruit:</l>
+                        <l>De l'amour de Cesar j'ay craint la violence;</l>
+                        <l>Témoin de ses transports, ma juste défiance</l>
+                        <l>A feint, pour amuser les fureurs d'un Amant,</l>
+                        <l>Que l'objet de ses feux changeoit de sentiment;</l>
+                        <l>Par cet espoir flateur, sa douleur abusée,</l>
+                        <l>Le retient, &amp; me livre une vengeance aisée;</l>
+                        <l>Et, libre en ce moment, il m'est enfin permis,</l>
+                        <l>Sans attendre le temps que je leur ay promis,</l>
+                        <l>D'immoler à la fois, dans ma juste colére,</l>
+                        <l>A nos Dieux offencez &amp; la fille, &amp; le pere:</l>
+                        <l>Camille, que l'amour lie à mes interests,</l>
+                        <l>M'a donné ces conseils, qu'on doit tenir secrets;</l>
+                        <l>J'ay voulu sans temoins icy vous en instruire;</l>
+                        <l>Par là, je mets Cesar hors d'état de me nuire;</l>
+                        <l>Je le préviens: peut-être, épris d'un fol amour,</l>
+                        <l>Pour sauver Gabinie, avant la fin du jour,</l>
+                        <l>Le verrois-je, aveuglé d'une molle clemence,</l>
+                        <l>Des perfides Chretiens embrasser la défense:</l>
+                        <pb n="49" facs="tcp:174843:35"/>
+                        <l> Leur nombre, qui s'accroît de moment en mo<g ref="char:EOLhyphen"/>ment,</l>
+                        <l>Me fait craindre à la fin quelque souleuement;</l>
+                        <l>La Legion Thebaine, à leur perte attachée,</l>
+                        <l>De sa premiere ardeur me paroît relâchée;</l>
+                        <l>Le zele des Chrêtiens, à ses yeux expirans,</l>
+                        <l>Leur constance à souffrir, les discours des mourans,</l>
+                        <l>Séduisent les soldats; les chefs s'en attendrissent;</l>
+                        <l>Et depuis quelques jours à regret m'obéïssent;</l>
+                     </lg>
+                     <lg>
+                        <l>Cependant le faux bruit, qui par tout a volé</l>
+                        <l>Jusqu'à Gabinius, par mon ordre est allé.</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>MAXIME.</speaker>
+                     <l>Il demande à vous voir, Seigneur, &amp; l'on soup<g ref="char:EOLhyphen"/>çonne,</l>
+                     <l>Que lassé de sa secte enfin il l'abandonne;</l>
+                     <l>Peut-estre, puisqu'il veut luy-même vous parler,</l>
+                     <l>Ce qu'on dit de sa fille aura pû l'ebranler,</l>
+                     <l>Et cette heureuse feinte à tous deux salutaire,</l>
+                     <l>Pourra faire changer la fille, aprés le pere.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <l>Je l'ay faite enlever de cet apartement,</l>
+                     <l>Pour en pouvoir ailleurs disposer seurement;</l>
+                     <l>C'est dans ce Palais même, &amp; sous les sombres voû<g ref="char:EOLhyphen"/>tes,</l>
+                     <l>De ce Temple caché dont vous sçavez les routes:</l>
+                     <l>Là, sans que mon dessein puisse être soupçonné,</l>
+                     <l>Camille doit porter l'ordre que j'ay donné:</l>
+                     <l>Cesar, qui ne pût voir un si grand sacrifice,</l>
+                     <l>Venoit de la quitter, pour voir l'Imperatrice,</l>
+                     <l>Et tandis qu'il perdoit le temps en vains regrets,</l>
+                     <l>Mes Gardes s'aquitoient de mes ordres secrets.</l>
+                  </sp>
+               </div>
+               <div n="2" type="scene">
+                  <pb n="50" facs="tcp:174843:36"/>
+                  <head>
+                     <hi>SCENE II.</hi> JULIE, DIOCLETIEN, MAXIME.</head>
+                  <sp>
+                     <speaker>JULIE.</speaker>
+                     <l>SEigneur, je ne sçay poînt ce que Cesar médite,</l>
+                     <l>Il a de ses amis fait assembler l'élïte,</l>
+                     <l>Et, suivy d'un renfort de Chefs, &amp; de soldats,</l>
+                     <l>Au Temple de Vesta précipite ses pas.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN <hi>à Maxime.</hi>
+                     </speaker>
+                     <l>Il a cru qu'en ces lieux mes Gardes l'ont conduite;</l>
+                     <l>C'est encore un faux bruit pour tromper sa pour<g ref="char:EOLhyphen"/>suite.</l>
+                     <stage>à Julie.</stage>
+                     <p>Et Camille?</p>
+                  </sp>
+                  <sp>
+                     <speaker>JULIE.</speaker>
+                     <l>Cesar à peine a disparu,</l>
+                     <l>Qu'au fonds de ce Palais elle a d'abord couru:</l>
+                     <l>Là, parmy les détours d'une route inconnüe,</l>
+                     <l>Elle s'est quelque temps dérobée à ma veüe;</l>
+                     <l>Puis revenant à moy tremblante, &amp; sans couleur,</l>
+                     <l>Ses yeux baignez de pleurs exprimant sa douleur,</l>
+                     <l>Elle tient des discours, &amp; sans ordre, &amp; sans suite,</l>
+                     <l>Y mêle les Chrêtiens; puis troublée, interdite,</l>
+                     <l>Elle sort du Palais seule, &amp; ne daigne pas,</l>
+                     <l>Me dire, ou, dans la nuit elle adresse ses pas.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <p>Retirez-vous.</p>
+                  </sp>
+               </div>
+               <div n="3" type="scene">
+                  <head>SCENE III. <hi>DIOCLETIEN, MAXIME.</hi>
+                  </head>
+                  <sp>
+                     <speaker>MAXIME.</speaker>
+                     <p>SEignour, son trouble m'épouvante:</p>
+                  </sp>
+                  <sp>
+                     <pb n="51" facs="tcp:174843:36"/>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <p>Je m'embarasse peu des troubles d'une Amante.</p>
+                  </sp>
+                  <sp>
+                     <speaker>MAXIME.</speaker>
+                     <l>Mais ne craignez-vous point, que Cesar irrité</l>
+                     <l>Ne se porte, Seigneur, à quelque extrémité?</l>
+                     <l>Il a fait éclater les soins qui le devorent,</l>
+                     <l>Il est aimé du peuple, &amp; les soldats l'adorent.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <l>Le serment qu'il a fait limite son pouvoir:</l>
+                     <l>Le voicy: vous, allez... <hi>Il luy parle à l'ereille.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>MAXIME.</speaker>
+                     <p>Je feray mon devoir.</p>
+                  </sp>
+               </div>
+               <div n="4" type="scene">
+                  <head>SCENE IV. <hi>GALERIUS, DIOCLETIEN,</hi>
+                  </head>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <lg>
+                        <l>SEigneur, prétendez-vous, qu'avec indifference,</l>
+                        <l>Je souffre le mépris qu'on fait de ma puissance?</l>
+                        <l>Doit-on rien ordonner sans mon consentement,</l>
+                        <l>Et ne suis-je Empereur, que de nom seulement?</l>
+                        <l>Les bruits qu'on fait courir me font même com<g ref="char:EOLhyphen"/>prendre,</l>
+                        <l>Qu'on ose m'imposer, &amp; qu'on veut me surprendre:</l>
+                     </lg>
+                     <lg>
+                        <l>Je cherche Gabinie; elle étoit en ces lieux:</l>
+                        <l>Croit-on impunément la cacher à mes yeux?</l>
+                        <l>Ne suis-je pas son Juge? &amp; soûmise, ou rebelle,</l>
+                        <l>N'est-ce pas moy, Seigneur, qui dois disposer d'elle?</l>
+                        <l>Vous craignez, me dît-on, mes transports amou<g ref="char:EOLhyphen"/>reux.</l>
+                        <l>Je crains, qu'on ne vous donne un conseil dange<g ref="char:EOLhyphen"/>reux;</l>
+                        <l>J'en aurois du regret; mais enfin, je vous prie,</l>
+                        <l>Que je n'ignore plus le sort de Gabinie:</l>
+                        <l>Je dois en estre instruit, &amp; je me suis flaté...</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <pb n="52" facs="tcp:174843:37"/>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <l>Cesar, nous en sçaurons dans peu la verité:</l>
+                     <l>A peine sortiez-vous, que sans éclat, sans suite;</l>
+                     <l>Dans un Temple écarté mes Gardes l'ont conduite:</l>
+                     <l>Sans doute, loin du bruit, elle va dans ces lieux,</l>
+                     <l>A l'insçû des Chrêtiens, rendre hommage à nos Dieux;</l>
+                     <l>Appaiser leur courroux, qu'ont excité ses crimes,</l>
+                     <l>Et, pour les expier, leur offrir des victimes.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <lg>
+                        <l>Et ne lirois-je pas, au gré de mes souhaits,</l>
+                        <l>Un triomphe si beau dans vos yeux satisfaits?</l>
+                        <l>Je sçay que son retour vous combleroit de joye:</l>
+                        <l>De vos sombres regards, que faut-il que je croye?</l>
+                        <l>Même de vos discours?... Elle va, dites-vous,</l>
+                        <l>De nos Dieux offensez appaiser le courroux?</l>
+                        <l>Que deviendrois-je, ô Ciel! si pour laver le crime,</l>
+                        <l>Que l'on veut expier, elle étoit la victime?</l>
+                        <l>Si Camille en fureur, qui court de tous côtez...</l>
+                     </lg>
+                     <lg>
+                        <l>Mais, je voy qu'avec peine icy vous m'écoûtez:</l>
+                        <l>Vous me trompez, Seigneur: ce bruit n'est pas croyable:</l>
+                        <l>Vous seriez plus content, s'il étoit veritable.</l>
+                     </lg>
+                     <lg>
+                        <l>Enfin, quoy qu'il en soit, je demande à la voir:</l>
+                        <l>Je sens que mon respect cede à mon desespoir:</l>
+                        <l>Ne me direz-vous point ce qu'elle est devenüe?</l>
+                        <l>Craignez de la cacher plus long-tems à ma veüe.</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <l>Oubliez-vous ainsi ce que vous me devez,</l>
+                     <l>Ingrat? &amp; qu'aujourd'huy celuy que vous bravez,</l>
+                     <l>Vous a mis sur le Trône?</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <l>Ouy; mais il faut tout dire;</l>
+                     <l>Il est vray; si je suis monté jusqu'à l'Empire,</l>
+                     <l>C'est à Rome, au Senat, à vous que je le doy;</l>
+                     <l>Mais sçachez, qu'aprês tout, je ne le dois qu'à moy;</l>
+                     <l>Qu'à mon sang tant de fois versé pour la patrie:</l>
+                     <l>Mais enfin il s'agit icy de Gabinie;</l>
+                     <pb n="53" facs="tcp:174843:37"/>
+                     <l> Vous m'auez fait son Juge; &amp; vous y penserez:</l>
+                     <l>Vous me l'avez promise, &amp; vous m'en répondrez.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <p>Moy! temeraire?</p>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <l>Ouy, vous: Songez à me la rendre:</l>
+                     <l>Seul vous sçavez son sort; à qui puis-je m'en pren<g ref="char:EOLhyphen"/>dre?</l>
+                  </sp>
+               </div>
+               <div n="5" type="scene">
+                  <head>SCENE V. <hi>GABINIUS, GALERIUS, DIOCLETIEN,</hi> Gardes.</head>
+                  <sp>
+                     <speaker>GABINIUS <hi>se jettant aux pieds de Diocletien.</hi>
+                     </speaker>
+                     <l>JE ne viens point, Seigneur, embrasser vos ge<g ref="char:EOLhyphen"/>noux,</l>
+                     <l>Pour vous demander grace, ou me plaindre de vous;</l>
+                     <l>Mais, avant que mon sang coule dans les supplices,</l>
+                     <l>Pour derniere faveur, pour prix de mes services;</l>
+                     <l>J'ose vous suplier, Seigneur, de m'accorder,</l>
+                     <l>Ce qu'un malheureux pere a droit de demander,</l>
+                     <l>Lorsqu'il perd, sans retour, l'espoir de sa famille;</l>
+                     <l>Souffrez, qu'un seul moment, je puisse voir ma fille.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <l>Je t'entens: tu voudrois encor la replonger</l>
+                     <l>Dans l'erreur dont le Ciel s'en va la dégager:</l>
+                     <l>Je voy trop ton dessein; mais cesse d'y pretendre:</l>
+                     <l>Sçache, qu'elle n'est plus en état de t'entendre;</l>
+                     <l>Qu'elle est à nos Autels, pour fuir tes entretiens,</l>
+                     <l>Et qu'elle va quitter la secte des Chrêtiens.</l>
+                     <l>Tu peux pourtant la voir, si dans le même Temple,</l>
+                     <l>Tu veux bien te resoudre à suiure son exemple;</l>
+                     <l>Parle. Es-tu resolu de marcher sur ses pas?</l>
+                  </sp>
+                  <sp>
+                     <pb n="54" facs="tcp:174843:38"/>
+                     <speaker>GABINIUS <hi>en se relevant.</hi>
+                     </speaker>
+                     <l>Quoy ma fille.. mais, non.. Non! je ne le croy pas.</l>
+                     <l>Je suis sur de son zele, &amp; je luy rends justice,</l>
+                     <l>Je reconnois enfin vôtre lâche artifice.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <p>Quoy! tu m'oses braver? ah bien-tôt sous mes coups...</p>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIUS.</speaker>
+                     <p>Je crains vôtre pitié, plus que vôtre courroux.</p>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS <hi>à Gabinius.</hi>
+                     </speaker>
+                     <p>Seigneur, je vais pour elle employer ma puissance.</p>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIUS.</speaker>
+                     <p>Un plus puissant que vous veille pour sa deffense.</p>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <p>Ta Secte va tomber, n'attens pas son secours.</p>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIUS.</speaker>
+                     <l>Persecute, Tyran; tu la verras toujours,</l>
+                     <l>Malgré tes vains efforts, &amp; contre ton attente,</l>
+                     <l>Par tout persecutée, &amp; par tout triomphante.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <l>Puisqu'on ne daigne icy répondre à mes souhaits,</l>
+                     <l>Je cours..</l>
+                  </sp>
+               </div>
+               <div n="6" type="scene">
+                  <head>
+                     <hi>SCENE VI.</hi> MAXIME, GABINIUS, DIOCLETIEN, GALERIUS, Gardes.</head>
+                  <sp>
+                     <speaker>MAXIME <hi>à Galerius qu'il rencontre.</hi>
+                     </speaker>
+                     <stage>à Diocletien.</stage>
+                     <l>ON ne sçauroit sortir de ce Palais;</l>
+                     <l>On s'atroupe, Seigneur, dans la place prochaine;</l>
+                     <l>On entend mille cris; la legion Thebaine;</l>
+                     <l>Le blaspheme à la bouche, &amp; le feu dans les yeux,</l>
+                     <l>Vient de se soûlever.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <p>Qu'entens-je, justes Diex!</p>
+                  </sp>
+                  <sp>
+                     <pb n="55" facs="tcp:174843:38"/>
+                     <speaker>MAXIME.</speaker>
+                     <l>Un grand pouple les suit: vos Gardes sont aux portes;</l>
+                     <l>Mais, pour les repousser, on n'a que trois Cohortes;</l>
+                     <l>Seigneur, le danger presse; on dit confusément,</l>
+                     <l>Que les Chrêtiens ont part à ce soûlevement.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <p>Gabinie avec eux est donc d'intelligence?</p>
+                  </sp>
+                  <sp>
+                     <speaker>MAXIME. <hi>à Galerius</hi>
+                     </speaker>
+                     <p>Carus, qui les suivoit, sçaura... mais il s'avance.</p>
+                  </sp>
+               </div>
+               <div n="7" type="scene">
+                  <head>
+                     <hi>SCENE VII.</hi> CARUS, MAXIME, GALERIUS, DIOCLETIEN, GABINIUS, Gardes,</head>
+                  <sp>
+                     <speaker>CARUS.</speaker>
+                     <lg>
+                        <l>AH! Seigneur, sans frémir, je ne puis concevoir,</l>
+                        <l>Ny même croir encore ce que je viens de voir.</l>
+                        <l>J'ay couru, par vôtre ordre, aux lieux où l'as<g ref="char:EOLhyphen"/>semblée</l>
+                        <l>Des rebelles Chrêtiens devoit être accablée:</l>
+                        <l>La Legion Thebaine a marché sur mes pas,</l>
+                        <l>Et Maurice, leur Chef, conduisoit les soldats;</l>
+                        <l>Tous le fer à la main s'excitoient au carnage:</l>
+                        <l>D'une voûte profonde on trouve le passage?</l>
+                        <l>On entre, à la lüeur des flambeaux allumez,</l>
+                        <l>Jusqu'au lieu qui cachoit les Chrêtiens enfermez:</l>
+                     </lg>
+                     <lg>
+                        <l>Là parmy des rochers, dans une grote affreuse,</l>
+                        <l>Quelques lampes, éclairant une troupe nombreuse,</l>
+                        <l>D'abord ces malheureux confusément épars,</l>
+                        <l>Attentifs à leur culte arrèrent nos regards;</l>
+                        <l>Le fer brille aux flambeaux, &amp; leurs lampes pâ<g ref="char:EOLhyphen"/>lissent;</l>
+                        <l>De nos cris menaçans les voûtes reténtissent;</l>
+                        <pb n="56" facs="tcp:174843:39"/>
+                        <l> Les Chrêtiens sans effroy, tranquilles, à genoux,</l>
+                        <l>Ne daignent seulement jetter les yeux sur nous,</l>
+                        <l>Aucun d'eux de l'Autel ne détourne la veüe:</l>
+                        <l>La fureur des soldats demeure suspendüe:</l>
+                        <l>Leurs Mysteres par nous, malgré nous respectez,</l>
+                        <l>Soit horreur, soit respect, nous tiennent arrêtez,</l>
+                        <l>Immobiles, comme eux, nous gardons le silence:</l>
+                     </lg>
+                     <lg>
+                        <l>On finit. Marcellin le Pontife s'avance;</l>
+                        <l>Nous presente la gorge; &amp;, dans le même instant,</l>
+                        <l>Hommes, Femmes, enfans, chacun en fait autant:</l>
+                        <l>On n'entend nul regret, nul soûpir, nulle plainte:</l>
+                     </lg>
+                     <lg>
+                        <l>Maurice, à cet aspect, troublè, saisy de crainte,</l>
+                        <l>Sentant que le fer même échape de sa main,</l>
+                        <l>Tombe, au lieu de fraper, aux pieds de Marcellin;</l>
+                        <l>Ses soldats consternez imitent son exemple:</l>
+                        <l>Le Pontife, surpris, quelque temps les contemple,</l>
+                        <l>Puis, élevant au Ciel sa voix, ses mains, ses yeux,</l>
+                        <l>Les exhorte à quitter le culte de nos Dieux:</l>
+                     </lg>
+                     <lg>
+                        <l>Enfin Seigneur, j'ay vû, non sans horreur extrê<g ref="char:EOLhyphen"/>me,</l>
+                        <l>J'ay vû Chefs &amp; soldats demander le Baptême;</l>
+                        <l>Et de la même grote, où Maurice, &amp; les siens,</l>
+                        <l>Alloient vanger nos Dieux, ils sont sortis Chrê<g ref="char:EOLhyphen"/>tiens.</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <p>Ciel!</p>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <p>N'apprendray-je rien?</p>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIUS.</speaker>
+                     <p>O Dieu! c'est vôtre ouvrage.</p>
+                  </sp>
+                  <sp>
+                     <speaker>CARUS.</speaker>
+                     <lg>
+                        <l>Moy-même, ne pouvant resister davantage,</l>
+                        <l>Je sentois en secret un charme dangereux,</l>
+                        <l>Et si je n'avois fuy, j'allois faire comme eux:</l>
+                        <l>Ils viennent, &amp; dans Rome ils jettent l'épouvante;</l>
+                        <l>Ils marchent au Palais, &amp; leur nombre s'augmente;</l>
+                        <l>Pour trouver du secours, j'ay cherché vainement;</l>
+                        <l>Le peuple fuit, &amp; craint ce prompt soûlevement.</l>
+                        <pb n="57" facs="tcp:174843:39"/>
+                        <l> Vos Gardes, qu'on avoit postez aux avenuës.</l>
+                        <l>Seigneur, ont arrêté des femmes inconnües,</l>
+                        <l>Qui sortoient de la grote avec ces furieux,</l>
+                        <l>Leurs voiles, &amp; la nuit, les cachoient à nos yeux.</l>
+                     </lg>
+                     <lg>
+                        <l>On les amene. On vient. Vous apprendrez par elles,</l>
+                        <l>Quel dessein au Palais attire ces rebelles,</l>
+                        <l>Pourveu que vous daigniez employer la douceur.</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <p>Qu'on les fasse approcher.</p>
+                  </sp>
+               </div>
+               <div type="scene">
+                  <head>
+                     <hi>SCENE Derniere.</hi> SERENA, CAMILLE, CARUS, DIOCLETIEN, GABINIUS, GALERIUS, MAXIME, Gardes.</head>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <p>C'Est ma femme! &amp; sa soeur!</p>
+                  </sp>
+                  <sp>
+                     <speaker>SERENA.</speaker>
+                     <p>Ouy, c'est ma soeur, c'est moy, que tes Gardes t'amenent.</p>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <p>Suis-je assez confondu?</p>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <stage>Il veut sortir.</stage>
+                     <l>Quels égards me retiennent?</l>
+                     <l>Ces mutins m'apprendront...</l>
+                  </sp>
+                  <sp>
+                     <speaker>SERENA.</speaker>
+                     <l>Ne craignez rien, Cesar,</l>
+                     <l>Avec eux l'Empereur ne court point de hazard:</l>
+                     <stage>à l'Empereur.</stage>
+                     <l>Vous n'aurez de leur part aucun lieu de vous plain<g ref="char:EOLhyphen"/>dre,</l>
+                     <l>Seigneur, ils sont Chrêtiens: vous n'avez rien à craindre,</l>
+                  </sp>
+                  <sp>
+                     <pb n="58" facs="tcp:174843:40"/>
+                     <speaker>GALERIUS.</speaker>
+                     <p>Et Gabinie?</p>
+                  </sp>
+                  <sp>
+                     <speaker>SERENA.</speaker>
+                     <l>Elle est en pleine liberté,</l>
+                     <l>Et joüit à present d'une tranquilité,</l>
+                     <l>Qui de ses ennemis ne craint plus la colére.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <p>Ah Ciel!</p>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <p>Et cés mutins que prétendent-ils faire?</p>
+                  </sp>
+                  <sp>
+                     <speaker>SERENA.</speaker>
+                     <l>Aux portes du Palais ils ont la force en main;</l>
+                     <l>Mais sçais-tu bien, cruel, sçais-tu bien leur dessein?</l>
+                     <l>Ils viennent assouvir ta barbare injustice,</l>
+                     <l>Et, sçachant tes Edits, &amp; le lieu du supplice,</l>
+                     <l>Dans la place prochaine ils accourent exprés,</l>
+                     <l>Pour subir la rigueur de tes cruels Arrêts.</l>
+                     <l>En doutes-tu! vas y: ce sont pour toy des fêtes;</l>
+                     <l>Va voir couler leur sang; va voir voler leurs têtes;</l>
+                     <l>Leurs corps, de toutes parts entassez par mon<g ref="char:EOLhyphen"/>ceaux</l>
+                     <l>Dont la foule empressée a lassé tes bourreaux:</l>
+                     <l>Vien: je suivray tes pas: &amp; pour combler tes crimes,</l>
+                     <l>Prens-nous, ma soeur &amp; moy, pour dernieres vic<g ref="char:EOLhyphen"/>times.</l>
+                  </sp>
+                  <sp>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <p>Ah Dieux!</p>
+                  </sp>
+                  <sp>
+                     <speaker>SERENA.</speaker>
+                     <l>Je suis Chretienne; il est temps de parler</l>
+                     <l>Ma soeur l'est. Je l'estois: c'est trop te le celer:</l>
+                     <l>Elle favorisoit ta lâche perfidie;</l>
+                     <l>Voila ce qu'a produit la mort de Gabinie,</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <p>De Gabinie!</p>
+                  </sp>
+                  <sp>
+                     <speaker>GABINIUS.</speaker>
+                     <p>Helas!</p>
+                  </sp>
+                  <sp>
+                     <pb n="59" facs="tcp:174843:40"/>
+                     <speaker>SERENA.</speaker>
+                     <l>Voila sa liberté,</l>
+                     <l>Cesar, voila son sort, &amp; sa tranquilité.</l>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <p>Ah cruel!</p>
+                  </sp>
+                  <sp>
+                     <speaker>CAMILLE.</speaker>
+                     <l>C'est à moy, Cesar, qu'il s'en faut prendre:</l>
+                     <l>J'ay demandé son sang, &amp; je l'ay fait répandre:</l>
+                     <stage>à Diocletien.</stage>
+                     <lg>
+                        <l>A peine ay-je donnê vos ordres inhumains,</l>
+                        <l>Qu'elle, à genoux, joignant ses innocentes mains,</l>
+                        <l>Au Ciel, dont on alloit luy ravir la lumiere,</l>
+                        <l>Pour moy, pour ses bourreaux adresse sa priere;</l>
+                     </lg>
+                     <lg>
+                        <l>Dêja prêt à fraper on voit le fer brillant;</l>
+                        <l>Elle anime le bras qui le leve en tremblant:</l>
+                        <l>Je voy partir le coup, &amp; j'attache ma veüe</l>
+                        <l>Sur sa tête sanglante à mes pieds abatüe;</l>
+                     </lg>
+                     <lg>
+                        <l>A cet instant fatal, je sens changer mon coeur;</l>
+                        <l>Je sens évanoüir ma haine et ma fureur;</l>
+                        <l>Je sens avec plaisir, dans mon ame attendrie,</l>
+                        <l>Que j'envie en secret le sort de Gabinie:</l>
+                        <l>Tout ce que des Chrêtiens autrefois on m'apprit</l>
+                        <l>Se présente aussi-tost en foule à mon esprit;</l>
+                        <l>Je ne me connois plus, &amp; leur zele m'enflâme;</l>
+                        <l>Le Dieu qu'elle adoroit s'empare de mon ame,</l>
+                        <l>Il m'anime, m'entraîne, &amp; desillant mes yeux,</l>
+                        <l>M'arrache pour toujours au culte des faux Dieux:</l>
+                        <l>C'est vous en dire assez, Seigneur, je suis Chrêtien<g ref="char:EOLhyphen"/>ne:</l>
+                        <l>J'ay demandé sa mort, je demande la mienne.</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <l>C'en est fait. Sans mourir, Ciel! y puis-je penser?</l>
+                     <l>Ah! barbare, quel sang avez-vous fait verser?</l>
+                     <l>Sans nul égard pour moy, ny sans pitié pour elle,</l>
+                     <l>Vous n'avez consulté qu'une haine cruelle;</l>
+                     <l>Dans l'affreux desespoir qui regne dans mon coeur;</l>
+                     <l>Je ne consulteray, que ma seule fureur.</l>
+                  </sp>
+                  <sp>
+                     <pb n="60" facs="tcp:174843:41"/>
+                     <speaker>DIOCLETIEN.</speaker>
+                     <lg>
+                        <l>Prenez done la vangeance où vôtre coeur aspire:</l>
+                        <l>Regnez, Galerius; j'abandonne l'Empire;</l>
+                        <l>Ouy, regnez, regnez seul, &amp; vangez vous de moy:</l>
+                        <l>Chassé par les Chrêtiens enfin je m'aperçoy,</l>
+                        <l>Qu'il est temps que je cede aux horreurs qui m'é<g ref="char:EOLhyphen"/>tonnent:</l>
+                     </lg>
+                     <lg>
+                        <l>Ouy, je voy, que les Dieux eux-mêmes m'aban<g ref="char:EOLhyphen"/>donnent,</l>
+                        <l>Et que las de regner sur les foibles mortels,</l>
+                        <l>Au démon des Chrêtiens ils cédent leurs Autels;</l>
+                        <l>Je dois céder comme eux. Dans une paix profonde</l>
+                        <l>Je laisse desormais tous les Chrêtiens du monde:</l>
+                     </lg>
+                     <lg>
+                        <l>Je leur ay fait la guerre autant que je l'ay pû:</l>
+                        <l>Ouy, Démon des Chrêtiens, enfin tu m'as vaincu;</l>
+                        <l>Tu veux regner dans Rome; eh bien, je me retire,</l>
+                        <l>Je ne t'empêche plus d'y fonder ton Empire,</l>
+                        <l>Je parts, je l'ay juré je fuy, c'est trop souffrir;</l>
+                        <l>Salone m'a vû naistre, &amp; me verra mourir.</l>
+                     </lg>
+                     <stage>Il sort</stage>
+                  </sp>
+                  <sp>
+                     <speaker>GALERIUS.</speaker>
+                     <l>Que n'as-tu fuy plûtôt? pourray-je te survivre,</l>
+                     <l>Gabinie? ah! courons la vanger, ou la suivre.</l>
+                  </sp>
+                  <sp>
+                     <speaker>SERENA.</speaker>
+                     <l>Et nous, en luy rendant les honneurs du tombeau,</l>
+                     <l>Allons loūer le Ciel d'un triomphe si beau.</l>
+                  </sp>
+                  <trailer>FIN.</trailer>
+                  <pb facs="tcp:174843:41"/>
+                  <pb facs="tcp:174843:42"/>
+                  <pb facs="tcp:174843:42"/>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
